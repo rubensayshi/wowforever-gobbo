@@ -1,0 +1,1 @@
+var e=`/wowforever-gobbo/assets/2026-11-11T15-34-52Z-D4JrC7z_.json`;export{e as default};

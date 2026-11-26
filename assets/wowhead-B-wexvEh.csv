@@ -1,0 +1,2451 @@
+spell,name,profession,learn,trainer
+2149,Handstitched Leather Boots,Leatherworking,1,
+2152,Light Armor Kit,Leatherworking,1,
+2153,Handstitched Leather Pants,Leatherworking,15,1
+2158,Fine Leather Boots,Leatherworking,90,0
+2159,Fine Leather Cloak,Leatherworking,85,1
+2160,Embossed Leather Vest,Leatherworking,40,1
+2161,Embossed Leather Boots,Leatherworking,55,1
+2162,Embossed Leather Cloak,Leatherworking,60,1
+2163,White Leather Jerkin,Leatherworking,60,0
+2164,Fine Leather Gloves,Leatherworking,75,0
+2165,Medium Armor Kit,Leatherworking,100,1
+2166,Toughened Leather Armor,Leatherworking,120,1
+2167,Dark Leather Boots,Leatherworking,100,1
+2168,Dark Leather Cloak,Leatherworking,110,1
+2169,Dark Leather Tunic,Leatherworking,100,0
+2329,Elixir of Minor Strength,Alchemy,1,1
+2331,Minor Mana Potion,Alchemy,25,1
+2332,Minor Rejuvenation Potion,Alchemy,40,1
+2333,Elixir of Lesser Agility,Alchemy,140,0
+2334,Elixir of Minor Fortitude,Alchemy,50,1
+2335,Swiftness Potion,Alchemy,60,0
+2365,Draught of Tongues,Alchemy,100,
+2385,Brown Linen Vest,Tailoring,10,1
+2386,Linen Boots,Tailoring,65,1
+2387,Linen Cloak,Tailoring,1,
+2389,Red Linen Robe,Tailoring,40,0
+2392,Red Linen Shirt,Tailoring,40,1
+2393,White Linen Shirt,Tailoring,1,1
+2394,Blue Linen Shirt,Tailoring,40,1
+2395,Barbaric Linen Vest,Tailoring,70,1
+2396,Green Linen Shirt,Tailoring,70,1
+2397,Reinforced Linen Cape,Tailoring,60,1
+2399,Green Woolen Vest,Tailoring,85,1
+2401,Woolen Boots,Tailoring,95,1
+2402,Woolen Cape,Tailoring,75,1
+2403,Gray Woolen Robe,Tailoring,105,0
+2406,Gray Woolen Shirt,Tailoring,100,1
+2657,Smelt Copper,Mining,25,
+2658,Smelt Silver,Mining,75,1
+2659,Smelt Bronze,Mining,65,1
+2660,Rough Sharpening Stone,Blacksmithing,1,
+2661,Copper Chain Belt,Blacksmithing,35,1
+2662,Copper Chain Pants,Blacksmithing,1,1
+2663,Copper Bracers,Blacksmithing,1,
+2664,Runed Copper Bracers,Blacksmithing,90,1
+2665,Coarse Sharpening Stone,Blacksmithing,65,1
+2666,Runed Copper Belt,Blacksmithing,70,1
+2667,Runed Copper Breastplate,Blacksmithing,80,0
+2668,Rough Bronze Leggings,Blacksmithing,105,1
+2670,Rough Bronze Cuirass,Blacksmithing,105,1
+2672,Patterned Bronze Bracers,Blacksmithing,120,1
+2673,Silvered Bronze Breastplate,Blacksmithing,130,0
+2674,Heavy Sharpening Stone,Blacksmithing,125,1
+2675,Shining Silver Breastplate,Blacksmithing,145,1
+2737,Copper Mace,Blacksmithing,15,1
+2738,Copper Axe,Blacksmithing,20,1
+2739,Copper Shortsword,Blacksmithing,25,1
+2740,Bronze Mace,Blacksmithing,110,1
+2741,Bronze Axe,Blacksmithing,115,1
+2742,Bronze Shortsword,Blacksmithing,120,1
+2881,Light Leather,Leatherworking,1,
+2963,Bolt of Linen Cloth,Tailoring,1,
+2964,Bolt of Woolen Cloth,Tailoring,75,1
+3115,Rough Weightstone,Blacksmithing,1,
+3116,Coarse Weightstone,Blacksmithing,65,1
+3117,Heavy Weightstone,Blacksmithing,125,1
+3170,Minor Troll's Blood Elixir,Alchemy,15,1
+3171,Elixir of Wisdom,Alchemy,90,1
+3172,Minor Magic Resistance Potion,Alchemy,110,0
+3173,Lesser Mana Potion,Alchemy,120,1
+3174,Potion of Poison Cleansing,Alchemy,120,0
+3175,Limited Invulnerability Potion,Alchemy,250,0
+3176,Lesser Troll's Blood Elixir,Alchemy,125,1
+3177,Elixir of Lesser Defense,Alchemy,130,1
+3188,Elixir of Ogre Strength,Alchemy,150,0
+3230,Elixir of Minor Agility,Alchemy,50,0
+3292,Heavy Copper Broadsword,Blacksmithing,95,1
+3293,Copper Battle Axe,Blacksmithing,35,1
+3294,Thick War Axe,Blacksmithing,70,1
+3295,Deadly Bronze Poniard,Blacksmithing,125,0
+3296,Heavy Bronze Mace,Blacksmithing,130,1
+3297,Mighty Iron Hammer,Blacksmithing,145,0
+3304,Smelt Tin,Mining,65,1
+3307,Smelt Iron,Mining,125,1
+3308,Smelt Gold,Mining,170,1
+3319,Copper Chain Boots,Blacksmithing,20,1
+3320,Rough Grinding Stone,Blacksmithing,25,1
+3321,Copper Chain Vest,Blacksmithing,35,0
+3323,Runed Copper Gauntlets,Blacksmithing,40,1
+3324,Runed Copper Pants,Blacksmithing,45,1
+3325,Gemmed Copper Gauntlets,Blacksmithing,60,0
+3326,Coarse Grinding Stone,Blacksmithing,75,1
+3328,Rough Bronze Shoulders,Blacksmithing,110,1
+3330,Silvered Bronze Shoulders,Blacksmithing,125,0
+3331,Silvered Bronze Boots,Blacksmithing,130,1
+3333,Silvered Bronze Gauntlets,Blacksmithing,135,1
+3334,Green Iron Boots,Blacksmithing,145,0
+3336,Green Iron Gauntlets,Blacksmithing,150,0
+3337,Heavy Grinding Stone,Blacksmithing,125,1
+3448,Lesser Invisibility Potion,Alchemy,165,1
+3449,Shadow Oil,Alchemy,165,0
+3450,Elixir of Lesser Fortitude,Alchemy,175,1
+3451,Troll's Blood Elixir,Alchemy,180,0
+3452,Mana Potion,Alchemy,160,1
+3453,Draught of Detect Lesser Invisibility,Alchemy,195,0
+3454,Frost Oil,Alchemy,200,0
+3491,Big Bronze Knife,Blacksmithing,105,1
+3492,Hardened Iron Shortsword,Blacksmithing,160,0
+3493,Jade Serpentblade,Blacksmithing,175,0
+3494,Solid Iron Maul,Blacksmithing,155,0
+3495,Golden Iron Destroyer,Blacksmithing,170,0
+3496,Moonsteel Broadsword,Blacksmithing,180,0
+3497,Frost Tiger Blade,Blacksmithing,200,0
+3498,Massive Iron Axe,Blacksmithing,185,0
+3500,Shadow Crescent Axe,Blacksmithing,200,0
+3501,Green Iron Bracers,Blacksmithing,165,1
+3502,Green Iron Helm,Blacksmithing,170,1
+3503,Golden Scale Coif,Blacksmithing,190,0
+3504,Green Iron Shoulders,Blacksmithing,160,0
+3505,Golden Scale Shoulders,Blacksmithing,175,0
+3506,Green Iron Leggings,Blacksmithing,155,1
+3507,Golden Scale Leggings,Blacksmithing,170,0
+3508,Green Iron Hauberk,Blacksmithing,180,1
+3511,Golden Scale Cuirass,Blacksmithing,195,0
+3513,Polished Steel Boots,Blacksmithing,185,0
+3515,Golden Scale Boots,Blacksmithing,200,0
+3569,Smelt Steel,Mining,165,1
+3753,Handstitched Leather Belt,Leatherworking,25,1
+3755,Linen Bag,Tailoring,45,1
+3756,Embossed Leather Gloves,Leatherworking,55,1
+3757,Woolen Bag,Tailoring,80,1
+3758,Green Woolen Bag,Tailoring,95,0
+3759,Embossed Leather Pants,Leatherworking,75,1
+3760,Hillman's Cloak,Leatherworking,150,1
+3761,Fine Leather Tunic,Leatherworking,85,1
+3762,Hillman's Leather Vest,Leatherworking,100,0
+3763,Fine Leather Belt,Leatherworking,80,1
+3764,Hillman's Leather Gloves,Leatherworking,145,1
+3765,Dark Leather Gloves,Leatherworking,120,0
+3766,Dark Leather Belt,Leatherworking,125,1
+3767,Hillman's Belt,Leatherworking,120,0
+3768,Hillman's Shoulders,Leatherworking,130,1
+3769,Dark Leather Shoulders,Leatherworking,140,0
+3770,Toughened Leather Gloves,Leatherworking,135,1
+3771,Barbaric Gloves,Leatherworking,150,0
+3772,Green Leather Armor,Leatherworking,155,0
+3773,Guardian Armor,Leatherworking,175,0
+3774,Green Leather Belt,Leatherworking,160,1
+3775,Guardian Belt,Leatherworking,170,0
+3776,Green Leather Bracers,Leatherworking,180,1
+3777,Guardian Leather Bracers,Leatherworking,195,0
+3778,Gem-studded Leather Belt,Leatherworking,185,0
+3779,Barbaric Belt,Leatherworking,200,0
+3780,Heavy Armor Kit,Leatherworking,150,1
+3813,Small Silk Pack,Tailoring,150,1
+3816,Cured Light Hide,Leatherworking,35,1
+3817,Cured Medium Hide,Leatherworking,100,1
+3818,Cured Heavy Hide,Leatherworking,150,1
+3839,Bolt of Silk Cloth,Tailoring,125,1
+3840,Heavy Linen Gloves,Tailoring,35,1
+3841,Green Linen Bracers,Tailoring,60,1
+3842,Handstitched Linen Britches,Tailoring,70,1
+3843,Heavy Woolen Gloves,Tailoring,85,1
+3844,Heavy Woolen Cloak,Tailoring,100,0
+3845,Soft-soled Linen Boots,Tailoring,80,1
+3847,Red Woolen Boots,Tailoring,95,0
+3848,Double-stitched Woolen Shoulders,Tailoring,110,1
+3849,Reinforced Woolen Shoulders,Tailoring,120,0
+3850,Heavy Woolen Pants,Tailoring,110,1
+3851,Phoenix Pants,Tailoring,125,0
+3852,Gloves of Meditation,Tailoring,130,1
+3854,Azure Silk Gloves,Tailoring,145,0
+3855,Spidersilk Boots,Tailoring,125,1
+3856,Spider Silk Slippers,Tailoring,140,0
+3857,Enchanter's Cowl,Tailoring,165,0
+3858,Shadow Hood,Tailoring,170,0
+3859,Azure Silk Vest,Tailoring,150,1
+3860,Boots of the Enchanter,Tailoring,175,0
+3861,Long Silken Cloak,Tailoring,185,1
+3862,Icy Cloak,Tailoring,200,0
+3863,Spider Belt,Tailoring,180,0
+3864,Star Belt,Tailoring,200,0
+3865,Bolt of Mageweave,Tailoring,175,1
+3866,Stylish Red Shirt,Tailoring,110,1
+3868,Phoenix Gloves,Tailoring,125,0
+3869,Bright Yellow Shirt,Tailoring,135,0
+3870,Dark Silk Shirt,Tailoring,155,0
+3871,Formal White Shirt,Tailoring,170,1
+3872,Rich Purple Silk Shirt,Tailoring,185,0
+3873,Black Swashbuckler's Shirt,Tailoring,200,0
+3914,Brown Linen Pants,Tailoring,30,1
+3915,Brown Linen Shirt,Tailoring,1,
+3918,Rough Blasting Powder,Engineering,1,
+3919,Rough Dynamite,Engineering,1,
+3920,Crafted Light Shot,Engineering,30,
+3922,Handful of Copper Bolts,Engineering,30,1
+3923,Rough Copper Bomb,Engineering,30,1
+3924,Copper Tube,Engineering,50,1
+3925,Rough Boomstick,Engineering,50,1
+3926,Copper Modulator,Engineering,65,1
+3928,Mechanical Squirrel,Engineering,75,0
+3929,Coarse Blasting Powder,Engineering,75,1
+3930,Crafted Heavy Shot,Engineering,75,1
+3931,Coarse Dynamite,Engineering,75,1
+3932,Target Dummy,Engineering,85,1
+3933,Small Seaforium Charge,Engineering,100,0
+3934,Flying Tiger Goggles,Engineering,100,1
+3936,Deadly Blunderbuss,Engineering,105,1
+3937,Large Copper Bomb,Engineering,105,1
+3938,Bronze Tube,Engineering,105,1
+3939,Lovingly Crafted Boomstick,Engineering,120,0
+3940,Shadow Goggles,Engineering,120,0
+3941,Small Bronze Bomb,Engineering,120,1
+3942,Whirring Bronze Gizmo,Engineering,125,1
+3944,Flame Deflector,Engineering,125,0
+3945,Heavy Blasting Powder,Engineering,125,1
+3946,Heavy Dynamite,Engineering,125,1
+3947,Crafted Solid Shot,Engineering,125,1
+3949,Silver-plated Shotgun,Engineering,130,1
+3950,Big Bronze Bomb,Engineering,140,1
+3952,Minor Recombobulator,Engineering,140,0
+3953,Bronze Framework,Engineering,145,1
+3954,Moonsight Rifle,Engineering,145,0
+3955,Explosive Sheep,Engineering,150,1
+3956,Green Tinted Goggles,Engineering,150,1
+3957,Ice Deflector,Engineering,155,0
+3958,Iron Strut,Engineering,160,1
+3959,Discombobulator Ray,Engineering,160,0
+3960,Portable Bronze Mortar,Engineering,165,0
+3961,Gyrochronatom,Engineering,170,1
+3962,Iron Grenade,Engineering,175,1
+3963,Compact Harvest Reaper Kit,Engineering,175,1
+3965,Advanced Target Dummy,Engineering,185,1
+3966,Craftsman's Monocle,Engineering,185,0
+3967,Big Iron Bomb,Engineering,190,1
+3968,Goblin Land Mine,Engineering,195,0
+3969,Mechanical Dragonling,Engineering,200,0
+3971,Gnomish Cloaking Device,Engineering,200,0
+3972,Large Seaforium Charge,Engineering,200,0
+3973,Silver Contact,Engineering,90,1
+3977,Crude Scope,Engineering,60,1
+3978,Standard Scope,Engineering,110,1
+3979,Accurate Scope,Engineering,180,0
+4096,Raptor Hide Harness,Leatherworking,165,0
+4097,Raptor Hide Belt,Leatherworking,165,0
+4508,Minor Discolored Healing Potion,Alchemy,50,1
+4942,Lesser Stoneshield Potion,Alchemy,215,0
+5244,Kodo Hide Bag,Leatherworking,40,0
+6458,Ornate Spyglass,Engineering,135,1
+6517,Pearl-handled Dagger,Blacksmithing,110,1
+6518,Iridescent Hammer,Blacksmithing,140,0
+6521,Pearl-clasped Cloak,Tailoring,90,1
+6617,Rage Potion,Alchemy,60,0
+6618,Great Rage Potion,Alchemy,175,0
+6624,Free Action Potion,Alchemy,150,0
+6661,Barbaric Harness,Leatherworking,190,1
+6686,Red Linen Bag,Tailoring,70,0
+6688,Red Woolen Bag,Tailoring,115,0
+6690,Lesser Wizard's Robe,Tailoring,135,1
+6692,Robes of Arcana,Tailoring,150,0
+6693,Green Silk Pack,Tailoring,175,0
+6695,Black Silk Pack,Tailoring,185,0
+6702,Murloc Scale Belt,Leatherworking,90,0
+6703,Murloc Scale Breastplate,Leatherworking,95,0
+6704,Thick Murloc Armor,Leatherworking,170,0
+6705,Murloc Scale Bracers,Leatherworking,190,0
+7126,Handstitched Leather Vest,Leatherworking,1,
+7133,Fine Leather Pants,Leatherworking,105,0
+7135,Dark Leather Pants,Leatherworking,115,1
+7147,Guardian Pants,Leatherworking,160,1
+7149,Barbaric Leggings,Leatherworking,170,0
+7151,Barbaric Shoulders,Leatherworking,175,1
+7153,Guardian Cloak,Leatherworking,185,0
+7156,Guardian Gloves,Leatherworking,190,1
+7179,Draught of Water Breathing,Alchemy,90,1
+7183,Elixir of Minor Defense,Alchemy,1,
+7221,Iron Shield Spike,Blacksmithing,150,0
+7222,Iron Counterweight,Blacksmithing,165,0
+7223,Golden Scale Bracers,Blacksmithing,185,1
+7224,Steel Weapon Chain,Blacksmithing,190,0
+7255,Holy Protection Potion,Alchemy,100,0
+7256,Shadow Protection Potion,Alchemy,135,0
+7257,Fire Protection Potion,Alchemy,165,0
+7258,Frost Protection Potion,Alchemy,190,0
+7259,Nature Protection Potion,Alchemy,190,0
+7408,Heavy Copper Maul,Blacksmithing,65,1
+7418,Enchant Bracer - Inferior Stamina,Enchanting,20,
+7420,Enchant Chest - Inferior Stamina,Enchanting,15,1
+7421,Runed Copper Rod,Enchanting,1,
+7426,Enchant Chest - Minor Absorption,Enchanting,40,1
+7428,Enchant Bracer - Minor Deflect,Enchanting,80,
+7430,Arclight Spanner,Engineering,50,1
+7443,Enchant Chest - Minor Intellect,Enchanting,20,0
+7454,Enchant Cloak - Minor Resistance,Enchanting,45,1
+7457,Enchant Bracer - Minor Stamina,Enchanting,50,1
+7623,Brown Linen Robe,Tailoring,30,1
+7624,White Linen Robe,Tailoring,30,1
+7629,Red Linen Vest,Tailoring,55,0
+7630,Blue Linen Vest,Tailoring,55,0
+7633,Blue Linen Robe,Tailoring,70,0
+7639,Blue Overalls,Tailoring,100,0
+7643,Greater Adept's Robe,Tailoring,115,0
+7745,Enchant 2H Weapon - Minor Impact,Enchanting,100,1
+7748,Enchant Chest - Lesser Stamina,Enchanting,60,1
+7766,Enchant Bracer - Minor Spirit,Enchanting,60,0
+7771,Enchant Cloak - Minor Protection,Enchanting,70,1
+7776,Enchant Chest - Lesser Intellect,Enchanting,80,0
+7779,Enchant Bracer - Minor Agility,Enchanting,80,1
+7782,Enchant Bracer - Minor Strength,Enchanting,80,0
+7786,Enchant Weapon - Minor Beastslayer,Enchanting,90,0
+7788,Enchant Weapon - Minor Striking,Enchanting,90,1
+7793,Enchant 2H Weapon - Lesser Intellect,Enchanting,100,0
+7795,Runed Silver Rod,Enchanting,100,1
+7817,Rough Bronze Boots,Blacksmithing,95,1
+7818,Silver Rod,Blacksmithing,100,1
+7836,Blackmouth Oil,Alchemy,80,1
+7837,Fire Oil,Alchemy,130,1
+7841,Swim Speed Potion,Alchemy,100,1
+7845,Elixir of Fire Power,Alchemy,140,1
+7857,Enchant Chest - Stamina,Enchanting,120,1
+7859,Enchant Bracer - Lesser Spirit,Enchanting,120,0
+7861,Enchant Cloak - Lesser Fire Resistance,Enchanting,125,1
+7863,Enchant Boots - Minor Stamina,Enchanting,125,1
+7867,Enchant Boots - Minor Agility,Enchanting,125,0
+7892,Stylish Blue Shirt,Tailoring,120,0
+7893,Stylish Green Shirt,Tailoring,120,0
+7953,Deviate Scale Cloak,Leatherworking,90,0
+7954,Deviate Scale Gloves,Leatherworking,105,0
+7955,Deviate Scale Belt,Leatherworking,115,0
+8240,Elixir of Giant Growth,Alchemy,90,0
+8243,Flash Bomb,Engineering,185,0
+8322,Moonglow Vest,Leatherworking,90,0
+8334,Practice Lock,Engineering,100,1
+8339,EZ-Thro Dynamite,Engineering,100,0
+8367,Ironforge Breastplate,Blacksmithing,100,0
+8465,Simple Dress,Tailoring,40,1
+8467,White Woolen Dress,Tailoring,110,1
+8483,White Swashbuckler's Shirt,Tailoring,160,1
+8489,Red Swashbuckler's Shirt,Tailoring,175,1
+8758,Azure Silk Pants,Tailoring,140,1
+8760,Azure Silk Hood,Tailoring,145,1
+8762,Silk Headband,Tailoring,160,1
+8764,Earthen Vest,Tailoring,170,1
+8766,Azure Silk Belt,Tailoring,175,1
+8768,Iron Buckle,Blacksmithing,150,1
+8770,Robe of Power,Tailoring,190,1
+8772,Crimson Silk Belt,Tailoring,175,1
+8774,Green Silken Shoulders,Tailoring,180,1
+8776,Linen Belt,Tailoring,15,1
+8780,Hands of Darkness,Tailoring,145,0
+8782,Truefaith Gloves,Tailoring,150,0
+8784,Green Silk Armor,Tailoring,165,0
+8786,Azure Silk Cloak,Tailoring,175,0
+8789,Crimson Silk Cloak,Tailoring,180,0
+8791,Crimson Silk Vest,Tailoring,185,1
+8793,Crimson Silk Shoulders,Tailoring,190,0
+8795,Azure Shoulders,Tailoring,190,0
+8797,Earthen Silk Belt,Tailoring,195,0
+8799,Crimson Silk Pantaloons,Tailoring,195,1
+8802,Crimson Silk Robe,Tailoring,205,0
+8804,Crimson Silk Gloves,Tailoring,210,1
+8880,Copper Dagger,Blacksmithing,30,1
+8895,Goblin Rocket Boots,Engineering,130,1
+9058,Handstitched Leather Cloak,Leatherworking,1,
+9059,Handstitched Leather Bracers,Leatherworking,1,
+9060,Light Leather Quiver,Leatherworking,30,1
+9062,Small Leather Ammo Pouch,Leatherworking,30,1
+9064,Rugged Leather Pants,Leatherworking,35,0
+9065,Light Leather Bracers,Leatherworking,70,1
+9068,Light Leather Pants,Leatherworking,95,1
+9070,Black Whelp Cloak,Leatherworking,100,0
+9072,Red Whelp Gloves,Leatherworking,120,0
+9074,Nimble Leather Gloves,Leatherworking,120,1
+9145,Fletcher's Gloves,Leatherworking,125,1
+9146,Herbalist's Gloves,Leatherworking,135,0
+9147,Earthen Leather Shoulders,Leatherworking,135,0
+9148,Pilferer's Gloves,Leatherworking,140,0
+9149,Heavy Earthen Gloves,Leatherworking,145,0
+9193,Heavy Quiver,Leatherworking,150,1
+9194,Heavy Leather Ammo Pouch,Leatherworking,150,1
+9195,Dusky Leather Leggings,Leatherworking,165,0
+9196,Dusky Leather Armor,Leatherworking,175,1
+9197,Green Whelp Armor,Leatherworking,175,0
+9198,Frost Leather Cloak,Leatherworking,180,1
+9201,Dusky Bracers,Leatherworking,185,1
+9202,Green Whelp Bracers,Leatherworking,190,0
+9206,Dusky Belt,Leatherworking,195,1
+9207,Dusky Boots,Leatherworking,200,0
+9208,Swift Boots,Leatherworking,200,0
+9269,Gnomish Universal Remote,Engineering,125,0
+9271,Aquadynamic Fish Attractor,Engineering,150,1
+9273,Goblin Jumper Cables,Engineering,165,0
+9811,Barbaric Iron Shoulders,Blacksmithing,160,0
+9813,Barbaric Iron Breastplate,Blacksmithing,160,0
+9814,Barbaric Iron Helm,Blacksmithing,175,0
+9818,Barbaric Iron Boots,Blacksmithing,180,0
+9820,Barbaric Iron Gloves,Blacksmithing,185,0
+9916,Steel Breastplate,Blacksmithing,200,1
+9918,Solid Sharpening Stone,Blacksmithing,200,1
+9920,Solid Grinding Stone,Blacksmithing,200,1
+9921,Solid Weightstone,Blacksmithing,200,1
+9926,Heavy Mithril Shoulder,Blacksmithing,205,1
+9928,Heavy Mithril Gauntlet,Blacksmithing,205,1
+9931,Mithril Plate Pants,Blacksmithing,210,1
+9933,Heavy Mithril Pants,Blacksmithing,210,0
+9935,Steel Plate Helm,Blacksmithing,215,1
+9937,Mithril Plate Bracers,Blacksmithing,215,0
+9939,Mithril Shield Spike,Blacksmithing,215,0
+9945,Ornate Mithril Pants,Blacksmithing,220,0
+9950,Ornate Mithril Gloves,Blacksmithing,220,0
+9952,Ornate Mithril Shoulders,Blacksmithing,225,0
+9954,Truesilver Gauntlets,Blacksmithing,225,
+9957,Orcish War Leggings,Blacksmithing,230,
+9959,Heavy Mithril Breastplate,Blacksmithing,230,1
+9961,Mithril Coif,Blacksmithing,230,1
+9964,Mithril Spurs,Blacksmithing,235,0
+9966,Mithril Plate Shoulders,Blacksmithing,235,0
+9968,Heavy Mithril Boots,Blacksmithing,235,1
+9970,Heavy Mithril Helm,Blacksmithing,245,0
+9972,Ornate Mithril Breastplate,Blacksmithing,240,
+9974,Truesilver Breastplate,Blacksmithing,245,
+9979,Ornate Mithril Boots,Blacksmithing,245,
+9980,Ornate Mithril Helm,Blacksmithing,245,
+9983,Copper Claymore,Blacksmithing,30,1
+9985,Bronze Warhammer,Blacksmithing,125,1
+9986,Bronze Greatsword,Blacksmithing,130,1
+9987,Bronze Battle Axe,Blacksmithing,135,1
+9993,Heavy Mithril Axe,Blacksmithing,210,1
+9995,Blue Glittering Axe,Blacksmithing,220,0
+9997,Wicked Mithril Blade,Blacksmithing,225,0
+10001,Big Black Mace,Blacksmithing,230,1
+10003,The Shatterer,Blacksmithing,235,
+10005,Dazzling Mithril Rapier,Blacksmithing,240,0
+10007,Phantom Blade,Blacksmithing,245,
+10009,Runed Mithril Hammer,Blacksmithing,245,0
+10011,Blight,Blacksmithing,250,
+10013,Ebon Shiv,Blacksmithing,255,0
+10015,Truesilver Champion,Blacksmithing,260,
+10097,Smelt Mithril,Mining,175,1
+10098,Smelt Truesilver,Mining,230,1
+10482,Cured Thick Hide,Leatherworking,200,1
+10487,Thick Armor Kit,Leatherworking,200,1
+10490,Comfortable Leather Hat,Leatherworking,200,0
+10499,Nightscape Tunic,Leatherworking,205,1
+10507,Nightscape Headband,Leatherworking,205,1
+10509,Turtle Scale Gloves,Leatherworking,205,0
+10511,Turtle Scale Breastplate,Leatherworking,210,1
+10516,Nightscape Shoulders,Leatherworking,210,0
+10518,Turtle Scale Bracers,Leatherworking,210,1
+10520,Big Voodoo Robe,Leatherworking,215,0
+10525,Tough Scorpid Breastplate,Leatherworking,220,0
+10529,Wild Leather Shoulders,Leatherworking,220,0
+10531,Big Voodoo Mask,Leatherworking,220,0
+10533,Tough Scorpid Bracers,Leatherworking,220,0
+10542,Tough Scorpid Gloves,Leatherworking,225,0
+10544,Wild Leather Vest,Leatherworking,225,0
+10546,Wild Leather Helmet,Leatherworking,225,0
+10548,Nightscape Pants,Leatherworking,230,1
+10552,Turtle Scale Helm,Leatherworking,230,1
+10554,Tough Scorpid Boots,Leatherworking,235,0
+10556,Turtle Scale Leggings,Leatherworking,235,1
+10558,Nightscape Boots,Leatherworking,235,1
+10560,Big Voodoo Pants,Leatherworking,240,0
+10562,Big Voodoo Cloak,Leatherworking,240,0
+10564,Tough Scorpid Shoulders,Leatherworking,240,0
+10566,Wild Leather Boots,Leatherworking,245,0
+10568,Tough Scorpid Leggings,Leatherworking,245,0
+10570,Tough Scorpid Helm,Leatherworking,250,0
+10572,Wild Leather Leggings,Leatherworking,250,0
+10574,Wild Leather Cloak,Leatherworking,250,0
+10619,Dragonscale Gauntlets,Leatherworking,225,1
+10621,Wolfshead Helm,Leatherworking,225,
+10630,Gauntlets of the Sea,Leatherworking,230,
+10632,Helm of Fire,Leatherworking,250,
+10647,Feathered Breastplate,Leatherworking,250,
+10650,Dragonscale Breastplate,Leatherworking,255,1
+11448,Greater Mana Potion,Alchemy,205,1
+11449,Elixir of Agility,Alchemy,185,1
+11450,Elixir of Defense,Alchemy,195,1
+11451,Oil of Immolation,Alchemy,205,1
+11452,Restorative Potion,Alchemy,215,
+11453,Magic Resistance Potion,Alchemy,210,0
+11454,Inlaid Mithril Cylinder,Blacksmithing,200,0
+11456,Goblin Rocket Fuel,Alchemy,210,0
+11458,Wildvine Potion,Alchemy,225,0
+11459,Philosopher's Stone,Alchemy,225,0
+11460,Draught of Detect Undead,Alchemy,230,1
+11461,Arcane Elixir,Alchemy,235,1
+11464,Invisibility Potion,Alchemy,235,0
+11465,Elixir of Greater Intellect,Alchemy,235,1
+11466,Gift of Arthas,Alchemy,240,0
+11467,Elixir of Greater Agility,Alchemy,240,1
+11468,Draught of Dream Vision,Alchemy,240,0
+11472,Elixir of Greater Strength,Alchemy,245,0
+11473,Ghost Dye,Alchemy,245,0
+11476,Elixir of Shadow Power,Alchemy,250,0
+11477,Potion of Demon Slaying,Alchemy,250,0
+11478,Draught of Detect Demon,Alchemy,250,1
+11479,Transmute: Iron to Gold,Alchemy,225,1
+11480,Transmute: Mithril to Truesilver,Alchemy,225,1
+11643,Golden Scale Gauntlets,Blacksmithing,205,0
+12044,Simple Linen Pants,Tailoring,1,
+12045,Simple Linen Boots,Tailoring,20,1
+12046,Simple Kilt,Tailoring,75,1
+12047,Colorful Kilt,Tailoring,120,0
+12048,Black Mageweave Vest,Tailoring,205,1
+12049,Black Mageweave Leggings,Tailoring,205,1
+12050,Black Mageweave Robe,Tailoring,210,1
+12052,Shadoweave Pants,Tailoring,210,
+12053,Black Mageweave Gloves,Tailoring,215,1
+12055,Shadoweave Robe,Tailoring,215,
+12056,Red Mageweave Vest,Tailoring,215,0
+12059,White Bandit Mask,Tailoring,215,0
+12060,Red Mageweave Pants,Tailoring,215,0
+12061,Orange Mageweave Shirt,Tailoring,215,1
+12064,Orange Martial Shirt,Tailoring,220,0
+12065,Mageweave Bag,Tailoring,225,1
+12066,Red Mageweave Gloves,Tailoring,225,0
+12067,Dreamweave Gloves,Tailoring,225,1
+12069,Cindercloth Robe,Tailoring,225,1
+12070,Dreamweave Vest,Tailoring,225,1
+12071,Shadoweave Gloves,Tailoring,225,
+12072,Black Mageweave Headband,Tailoring,230,1
+12073,Black Mageweave Boots,Tailoring,230,1
+12074,Black Mageweave Shoulders,Tailoring,230,1
+12075,Lavender Mageweave Shirt,Tailoring,230,0
+12076,Shadoweave Shoulders,Tailoring,235,
+12077,Simple Black Dress,Tailoring,235,1
+12078,Red Mageweave Shoulders,Tailoring,235,0
+12079,Red Mageweave Bag,Tailoring,235,1
+12080,Pink Mageweave Shirt,Tailoring,235,0
+12081,Admiral's Hat,Tailoring,240,0
+12082,Shadoweave Boots,Tailoring,240,
+12084,Red Mageweave Headband,Tailoring,240,0
+12085,Tuxedo Shirt,Tailoring,240,0
+12086,Shadoweave Mask,Tailoring,245,0
+12088,Cindercloth Boots,Tailoring,245,1
+12089,Tuxedo Pants,Tailoring,245,0
+12091,White Wedding Dress,Tailoring,250,0
+12092,Dreamweave Circlet,Tailoring,250,1
+12093,Tuxedo Jacket,Tailoring,250,0
+12259,Silvered Bronze Leggings,Blacksmithing,155,0
+12260,Rough Copper Vest,Blacksmithing,1,
+12584,Gold Power Core,Engineering,150,1
+12585,Solid Blasting Powder,Engineering,175,1
+12586,Solid Dynamite,Engineering,175,1
+12587,Bright-Eye Goggles,Engineering,175,0
+12589,Mithril Tube,Engineering,195,1
+12590,Gyromatic Micro-Adjustor,Engineering,175,1
+12591,Unstable Trigger,Engineering,200,1
+12594,Fire Goggles,Engineering,205,1
+12595,Mithril Blunderbuss,Engineering,205,1
+12596,Hi-Impact Mithril Slugs,Engineering,210,1
+12597,Deadly Scope,Engineering,210,0
+12599,Mithril Casing,Engineering,215,1
+12603,Mithril Frag Bomb,Engineering,215,1
+12607,Catseye Ultra Goggles,Engineering,220,0
+12609,Catseye Draught,Alchemy,200,1
+12614,Mithril Heavy-bore Rifle,Engineering,220,0
+12615,Spellpower Goggles Xtreme,Engineering,225,0
+12616,Parachute Cloak,Engineering,225,0
+12617,Deepdive Helmet,Engineering,230,0
+12618,Rose Colored Goggles,Engineering,230,1
+12619,Hi-Explosive Bomb,Engineering,235,1
+12620,Sniper Scope,Engineering,240,0
+12621,Mithril Gyro-Shot,Engineering,245,1
+12622,Green Lens,Engineering,245,1
+12624,Mithril Mechanical Dragonling,Engineering,250,0
+12715,Goblin Rocket Fuel Recipe,Engineering,205,1
+12716,Goblin Mortar,Engineering,225,
+12717,Goblin Mining Helmet,Engineering,205,1
+12718,Goblin Construction Helmet,Engineering,225,1
+12754,The Big One,Engineering,235,1
+12755,Goblin Bomb Dispenser,Engineering,230,1
+12758,Goblin Rocket Helmet,Engineering,265,1
+12759,Gnomish Death Ray,Engineering,240,
+12760,Goblin Sapper Charge,Engineering,205,1
+12895,Inlaid Mithril Cylinder Plans,Engineering,205,
+12897,Gnomish Goggles,Engineering,210,
+12899,Gnomish Shrink Ray,Engineering,205,
+12902,Gnomish Net-o-Matic Projector,Engineering,210,
+12903,Gnomish Harm Prevention Belt,Engineering,215,
+12905,Gnomish Rocket Boots,Engineering,225,
+12906,Gnomish Battle Chicken,Engineering,230,
+12907,Gnomish Mind Control Cap,Engineering,235,
+12908,Goblin Dragon Gun,Engineering,260,1
+13240,The Mortar: Reloaded,Engineering,205,
+13378,Enchant Shield - Minor Stamina,Enchanting,105,1
+13380,Enchant 2H Weapon - Lesser Spirit,Enchanting,110,0
+13419,Enchant Cloak - Minor Agility,Enchanting,110,0
+13421,Enchant Cloak - Lesser Protection,Enchanting,115,1
+13464,Enchant Shield - Lesser Protection,Enchanting,115,0
+13485,Enchant Shield - Lesser Spirit,Enchanting,130,1
+13501,Enchant Bracer - Lesser Stamina,Enchanting,130,1
+13503,Enchant Weapon - Lesser Striking,Enchanting,140,1
+13522,Enchant Cloak - Lesser Shadow Resistance,Enchanting,135,0
+13529,Enchant 2H Weapon - Lesser Impact,Enchanting,145,1
+13536,Enchant Bracer - Lesser Strength,Enchanting,140,0
+13538,Enchant Chest - Lesser Absorption,Enchanting,140,1
+13607,Enchant Chest - Intellect,Enchanting,145,1
+13612,Enchant Gloves - Mining,Enchanting,145,0
+13617,Enchant Gloves - Herbalism,Enchanting,145,0
+13620,Enchant Gloves - Fishing,Enchanting,145,0
+13622,Enchant Bracer - Lesser Intellect,Enchanting,150,1
+13626,Enchant Chest - Minor Stats,Enchanting,150,1
+13628,Runed Golden Rod,Enchanting,150,1
+13631,Enchant Shield - Lesser Stamina,Enchanting,155,1
+13635,Enchant Cloak - Defense,Enchanting,155,1
+13637,Enchant Boots - Lesser Agility,Enchanting,160,1
+13640,Enchant Chest - Greater Stamina,Enchanting,160,1
+13642,Enchant Bracer - Spirit,Enchanting,165,1
+13644,Enchant Boots - Lesser Stamina,Enchanting,170,1
+13646,Enchant Bracer - Lesser Deflection,Enchanting,170,0
+13648,Enchant Bracer - Stamina,Enchanting,170,1
+13653,Enchant Weapon - Lesser Beastslayer,Enchanting,175,0
+13655,Enchant Weapon - Lesser Elemental Slayer,Enchanting,175,0
+13657,Enchant Cloak - Fire Resistance,Enchanting,175,1
+13659,Enchant Shield - Spirit,Enchanting,180,1
+13661,Enchant Bracer - Strength,Enchanting,180,1
+13663,Enchant Chest - Greater Intellect,Enchanting,185,1
+13687,Enchant Boots - Lesser Spirit,Enchanting,190,0
+13689,Enchant Shield - Lesser Block,Enchanting,195,0
+13693,Enchant Weapon - Striking,Enchanting,195,1
+13695,Enchant 2H Weapon - Impact,Enchanting,200,1
+13698,Enchant Gloves - Skinning,Enchanting,200,0
+13700,Enchant Chest - Lesser Stats,Enchanting,200,1
+13702,Runed Truesilver Rod,Enchanting,200,1
+13746,Enchant Cloak - Greater Defense,Enchanting,205,1
+13794,Enchant Cloak - Resistance,Enchanting,205,1
+13815,Enchant Gloves - Agility,Enchanting,210,1
+13817,Enchant Shield - Stamina,Enchanting,210,0
+13822,Enchant Bracer - Intellect,Enchanting,210,1
+13836,Enchant Boots - Stamina,Enchanting,215,1
+13841,Enchant Gloves - Advanced Mining,Enchanting,215,0
+13846,Enchant Bracer - Greater Spirit,Enchanting,220,0
+13858,Enchant Chest - Superior Stamina,Enchanting,220,1
+13868,Enchant Gloves - Advanced Herbalism,Enchanting,225,0
+13882,Enchant Cloak - Lesser Agility,Enchanting,225,0
+13887,Enchant Gloves - Strength,Enchanting,225,1
+13890,Enchant Boots - Minor Speed,Enchanting,225,1
+13898,Enchant Weapon - Fiery Weapon,Enchanting,265,0
+13905,Enchant Shield - Greater Spirit,Enchanting,230,1
+13915,Enchant Weapon - Demonslaying,Enchanting,230,0
+13917,Enchant Chest - Superior Intellect,Enchanting,230,1
+13931,Enchant Bracer - Deflection,Enchanting,235,0
+13933,Enchant Shield - Frost Resistance,Enchanting,235,0
+13935,Enchant Boots - Agility,Enchanting,235,1
+13937,Enchant 2H Weapon - Greater Impact,Enchanting,240,1
+13939,Enchant Bracer - Greater Strength,Enchanting,240,1
+13941,Enchant Chest - Stats,Enchanting,245,1
+13943,Enchant Weapon - Greater Striking,Enchanting,245,1
+13945,Enchant Bracer - Greater Stamina,Enchanting,245,0
+13947,Enchant Gloves - Riding Skill,Enchanting,250,0
+13948,Enchant Gloves - Minor Haste,Enchanting,250,1
+14293,Lesser Magic Wand,Enchanting,10,1
+14379,Golden Rod,Blacksmithing,150,1
+14380,Truesilver Rod,Blacksmithing,200,1
+14807,Greater Magic Wand,Enchanting,70,1
+14809,Lesser Mystic Wand,Enchanting,155,1
+14810,Greater Mystic Wand,Enchanting,175,1
+14891,Smelt Dark Iron,Mining,230,
+14930,Quickdraw Quiver,Leatherworking,225,1
+14932,Thick Leather Ammo Pouch,Leatherworking,225,1
+15255,Mechanical Repair Kit,Engineering,200,1
+15292,Dark Iron Pulverizer,Blacksmithing,265,0
+15293,Dark Iron Mail,Blacksmithing,270,0
+15294,Dark Iron Sunderer,Blacksmithing,275,0
+15295,Dark Iron Shoulders,Blacksmithing,280,0
+15296,Dark Iron Plate,Blacksmithing,285,0
+15596,Smoking Heart of the Mountain,Enchanting,265,0
+15628,Pet Bombling,Engineering,205,
+15633,Lil' Smoky,Engineering,205,
+15833,Dreamless Sleep Potion,Alchemy,230,1
+15972,Glinting Steel Dagger,Blacksmithing,180,1
+15973,Searing Golden Blade,Blacksmithing,190,0
+16153,Smelt Thorium,Mining,250,1
+16639,Dense Grinding Stone,Blacksmithing,250,1
+16640,Dense Weightstone,Blacksmithing,250,1
+16641,Dense Sharpening Stone,Blacksmithing,250,1
+16642,Thorium Armor,Blacksmithing,250,0
+16643,Thorium Belt,Blacksmithing,250,0
+16644,Thorium Bracers,Blacksmithing,255,0
+16645,Radiant Belt,Blacksmithing,260,0
+16646,Imperial Plate Shoulders,Blacksmithing,265,0
+16647,Imperial Plate Belt,Blacksmithing,265,0
+16648,Radiant Breastplate,Blacksmithing,270,0
+16649,Imperial Plate Bracers,Blacksmithing,270,0
+16650,Wildthorn Mail,Leatherworking,270,0
+16651,Thorium Shield Spike,Blacksmithing,275,0
+16652,Thorium Boots,Blacksmithing,280,0
+16653,Thorium Helm,Blacksmithing,280,0
+16654,Radiant Gloves,Blacksmithing,285,0
+16655,Fiery Plate Gauntlets,Blacksmithing,290,0
+16656,Radiant Boots,Blacksmithing,290,0
+16657,Imperial Plate Boots,Blacksmithing,295,0
+16658,Imperial Plate Helm,Blacksmithing,295,0
+16659,Radiant Circlet,Blacksmithing,295,0
+16660,Dawnbringer Shoulders,Blacksmithing,290,0
+16661,Storm Gauntlets,Leatherworking,295,0
+16662,Thorium Leggings,Blacksmithing,300,0
+16663,Imperial Plate Chest,Blacksmithing,300,0
+16664,Runic Plate Shoulders,Blacksmithing,300,0
+16665,Runic Plate Boots,Blacksmithing,300,0
+16667,Demon Forged Breastplate,Blacksmithing,285,0
+16724,Whitesoul Helm,Blacksmithing,300,0
+16725,Radiant Leggings,Blacksmithing,300,0
+16726,Runic Plate Helm,Blacksmithing,300,0
+16728,Helm of the Great Chief,Leatherworking,300,0
+16729,Lionheart Helm,Blacksmithing,300,0
+16730,Imperial Plate Leggings,Blacksmithing,300,0
+16731,Runic Breastplate,Blacksmithing,300,0
+16732,Runic Plate Leggings,Blacksmithing,300,0
+16741,Stronghold Gauntlets,Blacksmithing,300,0
+16742,Enchanted Thorium Helm,Blacksmithing,300,0
+16744,Enchanted Thorium Leggings,Blacksmithing,300,0
+16745,Enchanted Thorium Breastplate,Blacksmithing,300,0
+16746,Invulnerable Mail,Leatherworking,300,0
+16969,Ornate Thorium Handaxe,Blacksmithing,275,0
+16970,Dawn's Edge,Blacksmithing,275,0
+16971,Huge Thorium Battleaxe,Blacksmithing,280,0
+16973,Enchanted Battlehammer,Blacksmithing,280,0
+16978,Blazing Rapier,Blacksmithing,280,0
+16983,Serenity,Blacksmithing,285,0
+16984,Volcanic Hammer,Blacksmithing,290,0
+16985,Corruption,Blacksmithing,290,0
+16988,Hammer of the Titans,Blacksmithing,300,0
+16990,Arcanite Champion,Blacksmithing,300,0
+16991,Annihilator,Blacksmithing,300,0
+16992,Frostguard,Blacksmithing,300,0
+16993,Masterwork Stormhammer,Blacksmithing,300,0
+16994,Arcanite Reaper,Blacksmithing,300,0
+16995,Heartseeker,Blacksmithing,300,0
+17180,Enchanted Thorium,Enchanting,250,1
+17181,Enchanted Leather,Enchanting,250,1
+17187,Transmute: Arcanite,Alchemy,275,0
+17551,Stonescale Oil,Alchemy,250,1
+17552,Mighty Rage Potion,Alchemy,255,0
+17553,Superior Mana Potion,Alchemy,260,0
+17554,Elixir of Greater Defense,Alchemy,265,0
+17555,Elixir of the Sages,Alchemy,270,0
+17557,Elixir of Brute Force,Alchemy,275,0
+17559,Transmute: Air to Fire,Alchemy,275,0
+17560,Transmute: Fire to Earth,Alchemy,275,0
+17561,Transmute: Earth to Water,Alchemy,275,0
+17562,Transmute: Water to Air,Alchemy,275,0
+17563,Transmute: Undeath to Water,Alchemy,275,0
+17564,Transmute: Water to Undeath,Alchemy,275,0
+17565,Transmute: Life to Earth,Alchemy,275,0
+17566,Transmute: Earth to Life,Alchemy,275,0
+17570,Greater Stoneshield Potion,Alchemy,280,0
+17571,Elixir of the Mongoose,Alchemy,280,0
+17572,Purification Potion,Alchemy,285,0
+17573,Greater Arcane Elixir,Alchemy,285,0
+17574,Greater Fire Protection Potion,Alchemy,290,0
+17575,Greater Frost Protection Potion,Alchemy,290,0
+17576,Greater Nature Protection Potion,Alchemy,290,0
+17577,Greater Arcane Protection Potion,Alchemy,290,0
+17578,Greater Shadow Protection Potion,Alchemy,290,0
+17580,Major Mana Potion,Alchemy,295,0
+17632,Alchemist's Stone,Alchemy,300,
+17634,Flask of Petrification,Alchemy,300,0
+17635,Flask of the Titans,Alchemy,300,0
+17636,Flask of Distilled Wisdom,Alchemy,300,0
+17637,Flask of Supreme Power,Alchemy,300,0
+17638,Flask of Chromatic Resistance,Alchemy,300,0
+18401,Bolt of Runecloth,Tailoring,250,1
+18402,Runecloth Belt,Tailoring,255,1
+18403,Frostweave Tunic,Tailoring,255,0
+18404,Frostweave Robe,Tailoring,255,0
+18405,Runecloth Bag,Tailoring,260,0
+18406,Runecloth Robe,Tailoring,260,0
+18407,Runecloth Tunic,Tailoring,260,0
+18408,Cindercloth Vest,Tailoring,260,0
+18409,Runecloth Cloak,Tailoring,265,0
+18410,Ghostweave Belt,Tailoring,265,0
+18411,Frostweave Gloves,Tailoring,265,0
+18412,Cindercloth Gloves,Tailoring,270,0
+18413,Ghostweave Gloves,Tailoring,270,0
+18414,Brightcloth Robe,Tailoring,270,0
+18415,Brightcloth Gloves,Tailoring,270,0
+18416,Ghostweave Vest,Tailoring,275,0
+18417,Runecloth Gloves,Tailoring,275,0
+18418,Cindercloth Cloak,Tailoring,275,0
+18419,Felcloth Pants,Tailoring,275,0
+18420,Brightcloth Cloak,Tailoring,275,0
+18421,Wizardweave Leggings,Tailoring,275,0
+18422,Cloak of Fire,Tailoring,275,0
+18423,Runecloth Boots,Tailoring,280,0
+18424,Frostweave Pants,Tailoring,280,0
+18434,Cindercloth Pants,Tailoring,280,0
+18436,Robe of Winter Night,Tailoring,285,0
+18437,Felcloth Boots,Tailoring,285,0
+18438,Runecloth Pants,Tailoring,285,0
+18439,Brightcloth Pants,Tailoring,290,0
+18440,Mooncloth Leggings,Tailoring,290,0
+18441,Ghostweave Pants,Tailoring,290,0
+18442,Felcloth Hood,Tailoring,290,0
+18444,Runecloth Headband,Tailoring,295,0
+18445,Mooncloth Bag,Tailoring,300,0
+18446,Wizardweave Robe,Tailoring,300,0
+18447,Mooncloth Vest,Tailoring,300,0
+18448,Mooncloth Shoulders,Tailoring,300,0
+18449,Runecloth Shoulders,Tailoring,300,0
+18450,Wizardweave Turban,Tailoring,300,0
+18451,Felcloth Robe,Tailoring,300,0
+18452,Mooncloth Circlet,Tailoring,300,0
+18453,Felcloth Shoulders,Tailoring,300,0
+18454,Gloves of Spell Mastery,Tailoring,300,0
+18455,Bottomless Bag,Tailoring,300,0
+18456,Truefaith Vestments,Tailoring,300,0
+18457,Robe of the Archmage,Tailoring,300,0
+18458,Robe of the Void,Tailoring,300,0
+18560,Mooncloth,Tailoring,250,0
+19047,Cured Rugged Hide,Leatherworking,250,1
+19048,Heavy Scorpid Bracers,Leatherworking,255,0
+19049,Wicked Leather Gauntlets,Leatherworking,260,0
+19050,Green Dragonscale Breastplate,Leatherworking,260,0
+19051,Heavy Scorpid Vest,Leatherworking,265,0
+19052,Wicked Leather Bracers,Leatherworking,265,0
+19053,Chimeric Gloves,Leatherworking,265,0
+19054,Red Dragonscale Breastplate,Leatherworking,300,0
+19055,Runic Leather Gauntlets,Leatherworking,270,0
+19058,Rugged Armor Kit,Leatherworking,250,1
+19059,Volcanic Leggings,Leatherworking,270,0
+19060,Green Dragonscale Leggings,Leatherworking,270,0
+19061,Living Shoulders,Leatherworking,270,0
+19062,Ironfeather Shoulders,Leatherworking,270,0
+19063,Chimeric Boots,Leatherworking,275,0
+19064,Heavy Scorpid Gauntlets,Leatherworking,275,0
+19065,Runic Leather Bracers,Leatherworking,275,0
+19066,Frostsaber Boots,Leatherworking,275,0
+19067,Stormshroud Pants,Leatherworking,275,0
+19068,Warbear Harness,Leatherworking,275,0
+19070,Heavy Scorpid Belt,Leatherworking,280,0
+19071,Wicked Leather Headband,Leatherworking,280,0
+19072,Runic Leather Belt,Leatherworking,280,0
+19073,Chimeric Leggings,Leatherworking,280,0
+19074,Frostsaber Leggings,Leatherworking,285,0
+19075,Heavy Scorpid Leggings,Leatherworking,285,0
+19076,Volcanic Breastplate,Leatherworking,285,0
+19077,Blue Dragonscale Breastplate,Leatherworking,285,0
+19078,Living Leggings,Leatherworking,285,0
+19079,Stormshroud Armor,Leatherworking,285,0
+19080,Warbear Woolies,Leatherworking,285,0
+19081,Chimeric Vest,Leatherworking,290,0
+19082,Runic Leather Headband,Leatherworking,290,0
+19083,Wicked Leather Pants,Leatherworking,290,0
+19084,Devilsaur Gauntlets,Leatherworking,290,0
+19085,Black Dragonscale Breastplate,Leatherworking,290,0
+19086,Ironfeather Breastplate,Leatherworking,290,0
+19087,Frostsaber Gloves,Leatherworking,295,0
+19088,Heavy Scorpid Helm,Leatherworking,295,0
+19089,Blue Dragonscale Shoulders,Leatherworking,295,0
+19090,Stormshroud Shoulders,Leatherworking,295,0
+19091,Runic Leather Pants,Leatherworking,300,0
+19092,Wicked Leather Belt,Leatherworking,300,0
+19093,Onyxia Scale Cloak,Leatherworking,300,
+19094,Black Dragonscale Shoulders,Leatherworking,300,0
+19095,Living Breastplate,Leatherworking,300,0
+19097,Devilsaur Leggings,Leatherworking,300,0
+19098,Wicked Leather Armor,Leatherworking,300,0
+19100,Heavy Scorpid Shoulders,Leatherworking,300,0
+19101,Volcanic Shoulders,Leatherworking,300,0
+19102,Runic Leather Armor,Leatherworking,300,0
+19103,Runic Leather Shoulders,Leatherworking,300,0
+19104,Frostsaber Tunic,Leatherworking,300,0
+19107,Black Dragonscale Leggings,Leatherworking,300,0
+19435,Mooncloth Boots,Tailoring,290,0
+19567,Salt Shaker,Engineering,250,1
+19666,Silver Skeleton Key,Blacksmithing,100,1
+19667,Golden Skeleton Key,Blacksmithing,150,1
+19668,Truesilver Skeleton Key,Blacksmithing,200,1
+19669,Arcanite Skeleton Key,Blacksmithing,275,1
+19788,Dense Blasting Powder,Engineering,250,1
+19790,Thorium Grenade,Engineering,260,0
+19791,Thorium Widget,Engineering,260,0
+19792,Thorium Rifle,Engineering,260,0
+19793,Lifelike Mechanical Toad,Engineering,265,0
+19794,Spellpower Goggles Xtreme Plus,Engineering,270,0
+19795,Thorium Tube,Engineering,275,0
+19796,Dark Iron Rifle,Engineering,275,0
+19799,Dark Iron Bomb,Engineering,285,0
+19800,Thorium Shells,Engineering,285,0
+19814,Masterwork Target Dummy,Engineering,275,0
+19815,Delicate Arcanite Converter,Engineering,285,0
+19819,Voice Amplification Modulator,Engineering,290,0
+19825,Master Engineer's Goggles,Engineering,290,0
+19830,Arcanite Dragonling,Engineering,300,0
+19831,Arcane Bomb,Engineering,300,0
+19833,Flawless Arcanite Rifle,Engineering,300,0
+20008,Enchant Bracer - Greater Intellect,Enchanting,255,0
+20009,Enchant Bracer - Superior Spirit,Enchanting,270,0
+20010,Enchant Bracer - Superior Strength,Enchanting,295,0
+20011,Enchant Bracer - Superior Stamina,Enchanting,300,0
+20012,Enchant Gloves - Greater Agility,Enchanting,270,0
+20013,Enchant Gloves - Greater Strength,Enchanting,295,0
+20014,Enchant Cloak - Greater Resistance,Enchanting,265,0
+20015,Enchant Cloak - Superior Defense,Enchanting,285,0
+20016,Enchant Shield - Superior Spirit,Enchanting,280,0
+20017,Enchant Shield - Greater Stamina,Enchanting,265,0
+20020,Enchant Boots - Greater Stamina,Enchanting,260,0
+20023,Enchant Boots - Greater Agility,Enchanting,295,0
+20024,Enchant Boots - Spirit,Enchanting,275,0
+20025,Enchant Chest - Greater Stats,Enchanting,300,0
+20026,Enchant Chest - Major Stamina,Enchanting,275,0
+20028,Enchant Chest - Major Intellect,Enchanting,290,0
+20029,Enchant Weapon - Icy Chill,Enchanting,285,0
+20030,Enchant 2H Weapon - Superior Impact,Enchanting,295,0
+20031,Enchant Weapon - Superior Striking,Enchanting,300,0
+20032,Enchant Weapon - Lifestealing,Enchanting,300,0
+20033,Enchant Weapon - Unholy Weapon,Enchanting,295,0
+20034,Enchant Weapon - Crusader,Enchanting,300,0
+20035,Enchant 2H Weapon - Major Spirit,Enchanting,300,0
+20036,Enchant 2H Weapon - Major Intellect,Enchanting,300,0
+20051,Runed Arcanite Rod,Enchanting,290,0
+20201,Arcanite Rod,Blacksmithing,275,1
+20648,Medium Leather,Leatherworking,100,1
+20649,Heavy Leather,Leatherworking,150,1
+20650,Thick Leather,Leatherworking,200,1
+20848,Flarecore Mantle,Tailoring,300,0
+20849,Flarecore Gloves,Tailoring,300,0
+20853,Corehound Boots,Leatherworking,295,0
+20854,Molten Helm,Leatherworking,300,0
+20855,Black Dragonscale Boots,Leatherworking,300,0
+20872,Fiery Chain Girdle,Blacksmithing,295,0
+20873,Fiery Chain Shoulders,Blacksmithing,300,0
+20874,Dark Iron Bracers,Blacksmithing,295,0
+20876,Dark Iron Leggings,Blacksmithing,300,0
+20890,Dark Iron Reaver,Blacksmithing,300,0
+20897,Dark Iron Destroyer,Blacksmithing,300,0
+21161,Sulfuron Hammer,Blacksmithing,300,0
+21913,Edge of Winter,Blacksmithing,190,0
+21923,Elixir of Frost Power,Alchemy,190,0
+21931,Enchant Weapon - Winter's Might,Enchanting,190,0
+21940,Snowmaster 9000,Engineering,190,0
+21943,Gloves of the Greatfather,Leatherworking,190,0
+21945,Green Holiday Shirt,Tailoring,190,0
+22331,Rugged Leather,Leatherworking,250,1
+22704,Field Repair Bot 74A,Engineering,300,
+22711,Shadowskin Gloves,Leatherworking,200,0
+22727,Core Armor Kit,Leatherworking,300,0
+22732,Major Rejuvenation Potion,Alchemy,300,0
+22749,Enchant Weapon - Spell Power,Enchanting,300,0
+22750,Enchant Weapon - Healing Power,Enchanting,300,0
+22757,Elemental Sharpening Stone,Blacksmithing,300,0
+22759,Flarecore Wraps,Tailoring,300,0
+22793,Biznicks 247x128 Accurascope,Engineering,300,0
+22795,Core Marksman Rifle,Engineering,300,0
+22797,Force Reactive Disk,Engineering,300,0
+22808,Draught of Greater Water Breathing,Alchemy,215,1
+22813,Gordok Ogre Suit,Tailoring,285,
+22815,Gordok Ogre Suit,Leatherworking,285,
+22866,Belt of the Archmage,Tailoring,300,0
+22867,Felcloth Gloves,Tailoring,300,0
+22868,Inferno Gloves,Tailoring,300,0
+22869,Mooncloth Gloves,Tailoring,300,0
+22870,Cloak of Warding,Tailoring,300,0
+22902,Mooncloth Robe,Tailoring,300,0
+22921,Girdle of Insight,Leatherworking,300,0
+22922,Mongoose Boots,Leatherworking,300,0
+22923,Swift Flight Bracers,Leatherworking,300,0
+22926,Chromatic Cloak,Leatherworking,300,0
+22927,Hide of the Wild,Leatherworking,300,0
+22928,Shifting Cloak,Leatherworking,300,0
+22967,Smelt Elementium,Mining,310,
+23066,Red Firework,Engineering,150,0
+23067,Blue Firework,Engineering,150,0
+23068,Green Firework,Engineering,150,0
+23069,EZ-Thro Dynamite II,Engineering,200,0
+23070,Dense Dynamite,Engineering,250,1
+23071,Truesilver Transformer,Engineering,260,0
+23077,Gyrofreeze Ice Reflector,Engineering,260,0
+23078,Goblin Jumper Cables XL,Engineering,265,0
+23079,Major Recombobulator,Engineering,275,0
+23080,Powerful Seaforium Charge,Engineering,275,0
+23081,Hyper-Radiant Flame Reflector,Engineering,290,0
+23082,Ultra-Flash Shadow Reflector,Engineering,300,0
+23096,Alarm-O-Bot,Engineering,265,0
+23129,World Enlarger,Engineering,260,0
+23190,Heavy Leather Ball,Leatherworking,150,0
+23399,Barbaric Bracers,Leatherworking,155,0
+23486,Dimensional Ripper - Everlook,Engineering,285,
+23489,Ultrasafe Transporter - Gadgetzan,Engineering,285,
+23507,Snake Burst Firework,Engineering,250,0
+23628,Heavy Timbermaw Belt,Leatherworking,290,0
+23629,Heavy Timbermaw Boots,Leatherworking,300,0
+23632,Girdle of the Dawn,Blacksmithing,290,0
+23633,Gloves of the Dawn,Blacksmithing,300,0
+23636,Dark Iron Helm,Blacksmithing,300,0
+23637,Dark Iron Gauntlets,Blacksmithing,300,0
+23638,Black Amnesty,Blacksmithing,300,0
+23639,Blackfury,Blacksmithing,300,0
+23650,Ebon Hand,Blacksmithing,300,0
+23652,Blackguard,Blacksmithing,300,0
+23653,Nightfall,Blacksmithing,300,0
+23662,Wisdom of the Timbermaw,Tailoring,290,0
+23663,Mantle of the Timbermaw,Tailoring,300,0
+23664,Argent Boots,Tailoring,290,0
+23665,Argent Shoulders,Tailoring,300,0
+23666,Flarecore Robe,Tailoring,300,0
+23667,Flarecore Leggings,Tailoring,300,0
+23703,Might of the Timbermaw,Leatherworking,290,0
+23704,Timbermaw Brawlers,Leatherworking,300,0
+23705,Dawn Treaders,Leatherworking,290,0
+23706,Golden Mantle of the Dawn,Leatherworking,300,0
+23707,Lava Belt,Leatherworking,300,0
+23708,Chromatic Gauntlets,Leatherworking,300,0
+23709,Corehound Belt,Leatherworking,300,0
+23710,Molten Belt,Leatherworking,300,0
+23799,Enchant Weapon - Strength,Enchanting,290,0
+23800,Enchant Weapon - Agility,Enchanting,290,0
+23801,Enchant Bracer - Mana Regeneration,Enchanting,290,0
+23802,Enchant Bracer - Healing Power,Enchanting,300,0
+23803,Enchant Weapon - Mighty Spirit,Enchanting,300,0
+23804,Enchant Weapon - Mighty Intellect,Enchanting,300,0
+24091,Bloodvine Vest,Tailoring,300,0
+24092,Bloodvine Leggings,Tailoring,300,0
+24093,Bloodvine Boots,Tailoring,300,0
+24121,Primal Batskin Jerkin,Leatherworking,300,0
+24122,Primal Batskin Gloves,Leatherworking,300,0
+24123,Primal Batskin Bracers,Leatherworking,300,0
+24124,Blood Tiger Breastplate,Leatherworking,300,0
+24125,Blood Tiger Shoulders,Leatherworking,300,0
+24136,Bloodsoul Breastplate,Blacksmithing,300,0
+24137,Bloodsoul Shoulders,Blacksmithing,300,0
+24138,Bloodsoul Gauntlets,Blacksmithing,300,0
+24139,Darksoul Breastplate,Blacksmithing,300,0
+24140,Darksoul Leggings,Blacksmithing,300,0
+24141,Darksoul Shoulders,Blacksmithing,300,0
+24266,Gurubashi Mojo Madness,Alchemy,315,
+24356,Bloodvine Goggles,Engineering,300,0
+24357,Bloodvine Lens,Engineering,300,0
+24365,Mageblood Elixir,Alchemy,275,0
+24366,Greater Dreamless Sleep Potion,Alchemy,275,0
+24367,Living Action Potion,Alchemy,285,0
+24368,Major Troll's Blood Elixir,Alchemy,290,0
+24399,Dark Iron Boots,Blacksmithing,300,0
+24654,Blue Dragonscale Leggings,Leatherworking,300,1
+24655,Green Dragonscale Gauntlets,Leatherworking,280,1
+24703,Dreamscale Breastplate,Leatherworking,300,
+24846,Spitfire Bracers,Leatherworking,300,
+24847,Spitfire Gauntlets,Leatherworking,300,
+24848,Spitfire Breastplate,Leatherworking,300,
+24849,Sandstalker Bracers,Leatherworking,300,
+24850,Sandstalker Gauntlets,Leatherworking,300,
+24851,Sandstalker Breastplate,Leatherworking,300,
+24901,Runed Stygian Leggings,Tailoring,300,0
+24902,Runed Stygian Belt,Tailoring,300,0
+24903,Runed Stygian Boots,Tailoring,300,0
+24912,Darkrune Gauntlets,Blacksmithing,300,0
+24913,Darkrune Helm,Blacksmithing,300,0
+24914,Darkrune Breastplate,Blacksmithing,300,0
+24940,Black Whelp Tunic,Leatherworking,100,0
+25072,Enchant Gloves - Threat,Enchanting,300,0
+25073,Enchant Gloves - Shadow Power,Enchanting,300,0
+25074,Enchant Gloves - Frost Power,Enchanting,300,0
+25078,Enchant Gloves - Fire Power,Enchanting,300,0
+25079,Enchant Gloves - Healing Power,Enchanting,300,0
+25080,Enchant Gloves - Superior Agility,Enchanting,300,0
+25081,Enchant Cloak - Greater Fire Resistance,Enchanting,300,0
+25082,Enchant Cloak - Greater Nature Resistance,Enchanting,300,0
+25083,Enchant Cloak - Stealth,Enchanting,300,0
+25084,Enchant Cloak - Subtlety,Enchanting,300,0
+25086,Enchant Cloak - Dodge,Enchanting,300,0
+25124,Minor Wizard Oil,Enchanting,45,0
+25125,Minor Mana Oil,Enchanting,150,0
+25126,Lesser Wizard Oil,Enchanting,200,0
+25127,Lesser Mana Oil,Enchanting,250,0
+25128,Wizard Oil,Enchanting,275,0
+25129,Brilliant Wizard Oil,Enchanting,300,0
+25130,Brilliant Mana Oil,Enchanting,300,0
+25146,Transmute: Elemental Fire,Alchemy,300,0
+26011,Tranquil Mechanical Yeti,Engineering,250,
+26085,Soul Pouch,Tailoring,260,0
+26086,Felcloth Bag,Tailoring,285,
+26087,Core Felcloth Bag,Tailoring,300,0
+26277,Elixir of Holy Power,Alchemy,250,0
+26279,Stormshroud Gloves,Leatherworking,300,0
+26403,Festival Dress,Tailoring,250,0
+26407,Festival Suit,Tailoring,250,0
+26416,Small Blue Rocket,Engineering,125,
+26417,Small Green Rocket,Engineering,125,
+26418,Small Red Rocket,Engineering,125,
+26420,Large Blue Rocket,Engineering,175,
+26421,Large Green Rocket,Engineering,175,
+26422,Large Red Rocket,Engineering,175,
+26423,Blue Rocket Cluster,Engineering,225,
+26424,Green Rocket Cluster,Engineering,225,
+26425,Red Rocket Cluster,Engineering,225,
+26426,Large Blue Rocket Cluster,Engineering,275,
+26427,Large Green Rocket Cluster,Engineering,275,
+26428,Large Red Rocket Cluster,Engineering,275,
+26442,Firework Launcher,Engineering,225,0
+26443,Firework Cluster Launcher,Engineering,275,0
+27585,Heavy Obsidian Belt,Blacksmithing,300,
+27586,Jagged Obsidian Shield,Blacksmithing,300,0
+27587,Thick Obsidian Breastplate,Blacksmithing,300,0
+27588,Light Obsidian Belt,Blacksmithing,300,
+27589,Black Grasp of the Destroyer,Blacksmithing,300,0
+27590,Obsidian Mail Tunic,Blacksmithing,300,0
+27658,Enchanted Mageweave Pouch,Tailoring,225,0
+27659,Enchanted Runecloth Bag,Tailoring,275,0
+27660,Big Bag of Enchantment,Tailoring,300,0
+27724,Cenarion Herb Bag,Tailoring,275,0
+27725,Satchel of Cenarius,Tailoring,300,0
+27829,Titanic Leggings,Blacksmithing,300,0
+27830,Persuader,Blacksmithing,300,0
+27832,Sageblade,Blacksmithing,300,0
+27837,Enchant 2H Weapon - Agility,Enchanting,290,0
+28205,Glacial Gloves,Tailoring,300,
+28207,Glacial Vest,Tailoring,300,
+28208,Glacial Cloak,Tailoring,300,
+28209,Glacial Wrists,Tailoring,300,
+28210,Gaea's Embrace,Tailoring,300,0
+28219,Polar Tunic,Leatherworking,300,
+28220,Polar Gloves,Leatherworking,300,
+28221,Polar Bracers,Leatherworking,300,
+28222,Icy Scale Breastplate,Leatherworking,300,
+28223,Icy Scale Gauntlets,Leatherworking,300,
+28224,Icy Scale Bracers,Leatherworking,300,
+28242,Icebane Breastplate,Blacksmithing,300,
+28243,Icebane Gauntlets,Blacksmithing,300,
+28244,Icebane Bracers,Blacksmithing,300,
+28327,Steam Tonk Controller,Engineering,275,0
+28461,Ironvine Breastplate,Blacksmithing,300,
+28462,Ironvine Gloves,Blacksmithing,300,
+28463,Ironvine Belt,Blacksmithing,300,
+28472,Bramblewood Helm,Leatherworking,300,
+28473,Bramblewood Boots,Leatherworking,300,
+28474,Bramblewood Belt,Leatherworking,300,
+28480,Sylvan Vest,Tailoring,300,0
+28481,Sylvan Crown,Tailoring,300,0
+28482,Sylvan Shoulders,Tailoring,300,0
+44950,Green Winter Clothes,Tailoring,250,
+44953,Winter Boots,Leatherworking,285,
+44958,Red Winter Clothes,Tailoring,250,
+424641,Shredder Autosalvage Unit,Engineering,135,0
+426607,Elixir of Coalesced Regret,Alchemy,90,0
+427061,Mantle of the Second War,Blacksmithing,150,0
+428424,Phoenix Bindings,Tailoring,125,0
+429348,Shifting Silver Breastplate,Blacksmithing,175,
+429351,Extraplanar Spidersilk Boots,Tailoring,150,
+429354,Void-Touched Leather Gloves,Leatherworking,160,
+429869,Void-Touched Leather Gauntlets,Leatherworking,160,
+430397,Blackfathom Sharpening Stone,Blacksmithing,100,
+430409,Blackfathom Mana Oil,Enchanting,100,
+431362,Soul Vessel,Engineering,205,0
+435481,Enchant Weapon - Dismantle,Enchanting,225,0
+435610,Gneuro-Linked Arcano-Filament Monocle,Tailoring,225,0
+435819,Faintly Glowing Leather,Leatherworking,200,0
+435827,Hyperconductive Arcano-Filament,Tailoring,200,0
+435841,Invoker's Cord,Tailoring,150,0
+435848,Invoker's Mantle,Tailoring,150,0
+435903,Enchant Chest - Retricutioner,Enchanting,225,0
+435904,Glowing Gneuro-Linked Cowl,Leatherworking,225,0
+435906,Reflective Truesilver Braincage,Blacksmithing,225,0
+435908,Tempered Interference-Negating Helmet,Blacksmithing,225,0
+435910,Low-Background Truesilver Plates,Blacksmithing,200,0
+435949,Glowing Hyperconductive Scale Coif,Leatherworking,225,0
+435951,Gneuro-Conductive Channeler's Hood,Leatherworking,225,0
+435953,Rad-Resistant Scale Hood,Leatherworking,225,0
+435956,Polished Truesilver Gears,Engineering,200,0
+435958,Whirling Truesilver Gearwall,Engineering,225,0
+435960,Hyperconductive Goldwap,Engineering,225,0
+435964,High-Yield Radiation Bomb,Engineering,225,0
+435966,Ez-Thro Radiation Bomb,Engineering,225,0
+435969,Insulating Gniodine,Alchemy,200,0
+435971,Mildly Irradiated Rejuvenation Potion,Alchemy,225,0
+439085,Crimson Silk Robe,Tailoring,205,0
+439086,Black Mageweave Vest,Tailoring,205,1
+439088,Black Mageweave Leggings,Tailoring,205,1
+439091,Earthen Silk Belt,Tailoring,195,0
+439093,Crimson Silk Shoulders,Tailoring,190,0
+439094,Long Silken Cloak,Tailoring,185,1
+439097,Boots of the Enchanter,Tailoring,175,0
+439098,Crimson Silk Belt,Tailoring,175,1
+439100,Earthen Vest,Tailoring,170,1
+439102,Enchanter's Cowl,Tailoring,165,0
+439105,Big Voodoo Mask,Leatherworking,220,0
+439108,Big Voodoo Robe,Leatherworking,215,0
+439110,Guardian Leather Bracers,Leatherworking,195,0
+439112,Guardian Belt,Leatherworking,170,0
+439114,Guardian Pants,Leatherworking,160,1
+439116,Turtle Scale Breastplate,Leatherworking,210,1
+439118,Turtle Scale Gloves,Leatherworking,205,0
+439120,Golden Scale Gauntlets,Blacksmithing,205,
+439122,Golden Scale Boots,Blacksmithing,200,0
+439124,Golden Scale Cuirass,Blacksmithing,195,0
+439126,Golden Scale Coif,Blacksmithing,190,0
+439128,Moonsteel Broadsword,Blacksmithing,180,0
+439130,Golden Scale Shoulders,Blacksmithing,175,0
+439132,Golden Scale Leggings,Blacksmithing,170,0
+439134,Greater Mystic Wand,Enchanting,175,1
+439156,Sigil of Innovation,Enchanting,225,0
+439960,Lesser Arcane Elixir,Alchemy,190,0
+446179,Shoulderplates of Dread,Blacksmithing,250,
+446183,Paranoia Mantle,Leatherworking,250,
+446185,Shrieking Spaulders,Leatherworking,250,
+446186,Cacophonous Chain Shoulderguards,Leatherworking,250,
+446188,Fearmonger's Shoulderguards,Blacksmithing,250,
+446189,Shoulderpads of Obsession,Leatherworking,250,
+446190,Wailing Chain Mantle,Leatherworking,250,
+446191,Baleful Pauldrons,Blacksmithing,250,
+446192,Membrane of Dark Neurosis,Leatherworking,250,
+446193,Fractured Mind Pauldrons,Tailoring,250,
+446194,Mantle of Insanity,Tailoring,250,
+446195,Shoulderpads of the Deranged,Tailoring,250,
+446226,Flask of Everlasting Nightmares,Alchemy,250,
+446236,Void-Powered Invoker's Vambraces,Engineering,250,
+446237,Void-Powered Slayer's Vambraces,Engineering,250,
+446238,Void-Powered Protector's Vambraces,Engineering,250,
+446243,Sigil of Living Dreams,Enchanting,250,
+446851,Jar of Nightmarish Mojo,Alchemy,250,
+448085,Flask of Restless Dreams,Alchemy,250,
+448624,Scroll of Spatial Mending,Enchanting,120,0
+451706,Screaming Chain Pauldrons,Leatherworking,250,
+460460,Sulfuron Hammer,Blacksmithing,300,
+461645,Honed Blue Dragonscale Shoulders,Leatherworking,295,0
+461647,Skyrider's Masterwork Stormhammer,Blacksmithing,300,0
+461649,Living Green Dragonscale Leggings,Leatherworking,270,
+461651,Fiery Plate Gauntlets of the Hidden Technique,Blacksmithing,290,
+461653,Brilliant Chromatic Cloak,Leatherworking,300,0
+461655,Hardened Black Dragonscale Breastplate,Leatherworking,290,0
+461657,Hardened Black Dragonscale Leggings,Leatherworking,300,0
+461659,Hardened Black Dragonscale Shoulders,Leatherworking,300,0
+461661,Masterwork Volcanic Breastplate,Leatherworking,285,0
+461663,Masterwork Volcanic Shoulders,Leatherworking,300,0
+461665,Masterwork Volcanic Leggings,Leatherworking,270,0
+461667,Tempered Dark Iron Plate,Blacksmithing,285,0
+461669,Refined Arcanite Champion,Blacksmithing,300,0
+461671,Stronger-hold Gauntlets,Blacksmithing,300,0
+461673,Honed Blue Dragonscale Breastplate,Leatherworking,285,0
+461675,Refined Arcanite Reaper,Blacksmithing,300,0
+461677,Living Green Dragonscale Gauntlets,Leatherworking,270,
+461690,Mastercrafted Shifting Cloak,Leatherworking,300,0
+461692,Synthetic Gordok Ogre Suit,Leatherworking,285,
+461706,Swift Flight Vambraces,Leatherworking,300,0
+461708,Incandescent Mooncloth Robe,Tailoring,300,0
+461710,Fiery Core Sharpshooter Rifle,Engineering,320,
+461712,Refined Hammer of the Titans,Blacksmithing,320,
+461714,Desecration,Blacksmithing,315,
+461716,Deadly Heartseeker,Blacksmithing,320,
+461718,Tranquility,Blacksmithing,310,
+461720,Living Green Dragonscale Breastplate,Leatherworking,260,0
+461722,Devilcore Gauntlets,Leatherworking,290,0
+461724,Devilcore Leggings,Leatherworking,300,0
+461727,Leather-Reinforced Runecloth Bag,Tailoring,300,0
+461730,Hardened Frostguard,Blacksmithing,300,0
+461733,Finely-Enchanted Battlehammer,Blacksmithing,280,
+461735,Invincible Mail,Blacksmithing,300,0
+461737,Tempest Gauntlets,Blacksmithing,295,0
+461739,Warcrest of the Great Chief,Blacksmithing,300,0
+461743,Sageblade of the Archmagus,Blacksmithing,300,0
+461747,Incandescent Mooncloth Vest,Tailoring,300,0
+461750,Incandescent Mooncloth Circlet,Tailoring,300,0
+461752,Incandescent Mooncloth Leggings,Tailoring,290,0
+461754,Girdle of Arcane Insight,Leatherworking,300,0
+462227,Honed Blue Dragonscale Leggings,Leatherworking,320,
+462282,Embroidered Belt of the Archmage,Tailoring,300,0
+463866,Sigil of Flowing Waters,Enchanting,290,0
+463869,Conductive Shield Coating,Enchanting,275,0
+463871,Enchant Shield - Law of Nature,Enchanting,300,0
+463972,Bottomless Bag,Tailoring,300,0
+471400,Magnificent Trollshine,Enchanting,300,0
+1213481,Razorspike Headcage,Blacksmithing,320,
+1213484,Razorspike Shoulderplate,Blacksmithing,320,
+1213490,Razorspike Battleplate,Blacksmithing,320,
+1213492,Obsidian Reaver,Blacksmithing,320,
+1213498,Obsidian Champion,Blacksmithing,320,
+1213500,Obsidian Destroyer,Blacksmithing,320,
+1213502,Obsidian Stormhammer,Blacksmithing,320,
+1213504,Obsidian Sageblade,Blacksmithing,320,
+1213506,Obsidian Defender,Blacksmithing,320,
+1213513,Glowing Chitin Armor Kit,Leatherworking,320,
+1213519,Sharpened Chitin Armor Kit,Leatherworking,320,
+1213521,Razorbramble Cowl,Leatherworking,320,
+1213523,Razorbramble Shoulderpads,Leatherworking,320,
+1213525,Razorbramble Leathers,Leatherworking,320,
+1213527,Vampiric Cowl,Tailoring,315,
+1213530,Vampiric Shawl,Tailoring,315,
+1213532,Vampiric Robe,Tailoring,315,
+1213534,Qiraji Silk Scarf,Tailoring,320,
+1213536,Qiraji Silk Cape,Tailoring,320,
+1213538,Qiraji Silk Cloak,Tailoring,320,
+1213540,Qiraji Silk Drape,Tailoring,320,
+1213544,Flask of Unyielding Sorrow,Alchemy,315,
+1213546,Flask of Ancient Knowledge,Alchemy,315,
+1213548,Flask of the Old Gods,Alchemy,315,
+1213552,Flask of Madness,Alchemy,315,
+1213559,Elixir of the Honey Badger,Alchemy,315,
+1213563,Elixir of the Mage-Lord,Alchemy,315,
+1213565,Elixir of the Ironside,Alchemy,315,
+1213571,Elixir of Alacrity,Alchemy,315,
+1213573,Arcane Megabomb,Engineering,315,
+1213576,The Fumigator,Engineering,315,
+1213578,Obsidian Bomb,Engineering,315,
+1213586,G00 DV-1B3 Generator,Engineering,315,
+1213588,Tuned Force Reactive Disk,Engineering,315,
+1213593,Speedstone,Enchanting,320,
+1213595,Tear of the Dreamer,Enchanting,320,
+1213598,Lodestone of Retaliation,Enchanting,320,
+1213600,Enchanted Stopwatch,Enchanting,320,
+1213603,Ruby-Encrusted Broach,Enchanting,320,
+1213607,Scroll: Wrath of the Swarm,Enchanting,300,0
+1213610,Enchanted Repellent,Enchanting,300,0
+1213616,Enchant Chest - Living Stats,Enchanting,320,
+1213622,Enchant Gloves - Holy Power,Enchanting,300,0
+1213626,Enchant Gloves - Arcane Power,Enchanting,300,0
+1213628,Enchanted Prayer Tome,Enchanting,320,
+1213633,Enchanted Totem,Enchanting,320,
+1213635,Enchanted Mushroom,Enchanting,320,
+1213638,Smelt Obsidian-Infused Thorium Bar,Mining,315,
+1213643,Obsidian Grinding Stone,Blacksmithing,315,
+1213646,Obsidian Blasting Powder,Engineering,315,
+1213709,Ironvine Belt,Blacksmithing,320,
+1213711,Ironvine Gloves,Blacksmithing,320,
+1213715,Ironvine Breastplate,Blacksmithing,320,
+1213717,Sandstalker Bracers,Leatherworking,320,
+1213720,Sandstalker Gauntlets,Leatherworking,320,
+1213723,Sandstalker Breastplate,Leatherworking,320,
+1213726,Spitfire Bracers,Leatherworking,320,
+1213728,Spitfire Gauntlets,Leatherworking,320,
+1213731,Spitfire Breastplate,Leatherworking,320,
+1213734,Bramblewood Belt,Leatherworking,320,
+1213736,Bramblewood Boots,Leatherworking,320,
+1213738,Bramblewood Helm,Leatherworking,320,
+1213740,Sylvan Shoulders,Tailoring,315,
+1213742,Sylvan Crown,Tailoring,315,
+1213744,Sylvan Vest,Tailoring,315,
+1213746,Heavy Obsidian Belt,Blacksmithing,320,
+1213748,Light Obsidian Belt,Blacksmithing,320,
+1213751,Dreamscale Breastplate,Leatherworking,320,
+1214137,Obsidian Heartseeker,Blacksmithing,320,
+1214145,Obsidian Shotgun,Engineering,320,
+1214173,Bolt of Qiraji Silk,Tailoring,315,
+1214257,Black Grasp of the Destroyer,Blacksmithing,320,
+1214270,Jagged Obsidian Shield,Blacksmithing,320,
+1214274,Obsidian Mail Tunic,Blacksmithing,320,
+1214303,Dreamscale Kilt,Leatherworking,320,
+1214306,Dreamscale Bracers,Tailoring,320,
+1214307,Dreamscale Mitts,Tailoring,320,
+1214309,Dreamscale Visor,Blacksmithing,320,
+1215507,Thick Obsidian Breastplate,Blacksmithing,320,
+1216005,Libram of Righteousness,Enchanting,320,
+1216007,Libram of the Exorcist,Enchanting,320,
+1216010,Libram of Sanctity,Enchanting,320,
+1216014,Totem of Pyroclastic Thunder,Enchanting,320,
+1216016,Totem of Thunderous Strikes,Enchanting,320,
+1216018,Totem of Flowing Magma,Enchanting,320,
+1216020,Idol of Sidereal Wrath,Enchanting,320,
+1216022,Idol of Feline Ferocity,Enchanting,320,
+1216024,Idol of Ursin Power,Enchanting,320,
+1217189,Enchant Bracer - Spell Power,Enchanting,320,
+1217203,Enchant Bracer - Agility,Enchanting,320,
+1217207,Obsidian Scope,Engineering,320,
+1219577,Enchant Off-Hand - Superior Intellect,Enchanting,300,
+1219578,Enchant Off-Hand - Excellent Spirit,Enchanting,300,
+1219579,Enchant Off-Hand - Wisdom,Enchanting,300,0
+1219580,Enchant 2H Weapon - Spellblasting,Enchanting,300,0
+1219581,Enchant Shield - Excellent Stamina,Enchanting,300,
+1219587,Enchant Cloak - Agility,Enchanting,300,0
+1220623,Enchant Shield - Critical Strike,Enchanting,300,
+1220624,Enchant Bracer - Greater Spellpower,Enchanting,300,0
+1221012,Creepy Censor Sensors,Engineering,250,
+1223760,Glacial Vest,Tailoring,315,
+1223762,Glacial Cloak,Tailoring,315,
+1223764,Glacial Gloves,Tailoring,315,
+1223766,Glacial Wrists,Tailoring,315,
+1223768,Frosty Vest,Tailoring,315,
+1223770,Frosty Gloves,Tailoring,315,
+1223772,Frosty Wrists,Tailoring,315,
+1223774,Icy Scale Breastplate,Leatherworking,320,
+1223776,Icy Scale Gauntlets,Leatherworking,320,
+1223778,Icy Scale Bracers,Leatherworking,320,
+1223780,Polar Tunic,Leatherworking,320,
+1223782,Polar Gloves,Leatherworking,320,
+1223784,Polar Bracers,Leatherworking,320,
+1223787,Icebane Breastplate,Blacksmithing,320,
+1223789,Icebane Gauntlets,Blacksmithing,320,
+1223791,Icebane Bracers,Blacksmithing,320,
+1224607,Scarlet Augur's Hood,Tailoring,280,0
+1224608,Scarlet Augur's Mantle,Tailoring,280,0
+1224609,Scarlet Augur's Vestments,Tailoring,280,0
+1224610,Scarlet Augur's Cuffs,Tailoring,250,0
+1224611,Scarlet Augur's Mitts,Tailoring,260,0
+1224612,Scarlet Augur's Strap,Tailoring,250,0
+1224613,Scarlet Augur's Leggings,Tailoring,270,0
+1224614,Scarlet Augur's Soles,Tailoring,260,0
+1224615,Scarlet Infiltrator's Bandana,Leatherworking,280,0
+1224616,Scarlet Infiltrator's Shoulderpads,Leatherworking,280,0
+1224617,Scarlet Infiltrator's Vest,Leatherworking,280,0
+1224618,Scarlet Infiltrator's Bracers,Leatherworking,250,0
+1224619,Scarlet Infiltrator's Gloves,Leatherworking,260,0
+1224620,Scarlet Infiltrator's Belt,Leatherworking,250,0
+1224621,Scarlet Infiltrator's Trousers,Leatherworking,270,0
+1224622,Scarlet Infiltrator's Shoes,Leatherworking,260,0
+1224623,Scarlet Huntsman's Coif,Leatherworking,280,0
+1224624,Scarlet Huntsman's Pauldrons,Leatherworking,280,0
+1224625,Scarlet Huntsman's Chain,Leatherworking,280,0
+1224626,Scarlet Huntsman's Wristguards,Leatherworking,250,0
+1224627,Scarlet Huntsman's Handguards,Leatherworking,260,0
+1224628,Scarlet Huntsman's Clasp,Leatherworking,250,0
+1224629,Scarlet Huntsman's Legguards,Leatherworking,270,0
+1224630,Scarlet Huntsman's Boots,Leatherworking,260,0
+1224631,Scarlet Soldier's Helmet,Blacksmithing,280,0
+1224632,Scarlet Soldier's Spaulders,Blacksmithing,280,0
+1224633,Scarlet Soldier's Chestplate,Blacksmithing,280,0
+1224635,Scarlet Soldier's Protectors,Blacksmithing,250,0
+1224636,Scarlet Soldier's Grips,Blacksmithing,260,0
+1224637,Scarlet Soldier's Waistguard,Blacksmithing,250,0
+1224638,Scarlet Soldier's Legplates,Blacksmithing,270,0
+1224639,Scarlet Soldier's Stompers,Blacksmithing,260,0
+1226206,Tinkerbox,Engineering,250,
+1226207,Tinkerbox: Teleport,Engineering,260,
+1226208,Tinkerbox: Nitro Boosts,Engineering,260,
+1226209,Tinkerbox: Magnetic Displacement,Engineering,260,
+1226210,Tinker: Teleport,Engineering,280,
+1226211,Tinker: Nitro Boosts,Engineering,280,
+1226212,Tinker: Magnetic Displacement,Engineering,280,
+1226213,Semisafe Transporter: New Avalon,Engineering,300,
+1226689,Scarlet Quiver,Leatherworking,275,
+1226690,Scarlet Ammo Pouch,Leatherworking,275,
+1227723,Crusader's Knapsack,Tailoring,250,
+1227724,Crimson Dawnwoven Bag,Tailoring,290,
+1228088,Pop-Up Shrub,Engineering,250,
+1229432,Camp Tent,Leatherworking,20,1
+1229504,Faction Banner,Tailoring,20,1
+1230161,Lodestone,Mining,9999,1
+1230171,Sharpening Wheel,Blacksmithing,20,1
+1230564,Mana Well,Alchemy,20,1
+1230643,Enchanted Lute,Enchanting,20,1
+1230656,Reagent Bot,Engineering,20,1
+1231128,Enchant Weapon - Grand Crusader,Enchanting,280,
+1231139,Enchant 2H Weapon - Grand Arcanist,Enchanting,280,
+1231164,Enchant Weapon - Grand Sorcerer,Enchanting,280,
+1231583,Major Discolored Healing Potion,Alchemy,250,1
+1232172,Enchant 2H Weapon - Grand Inquisitor,Enchanting,280,
+1244421,Distilled Firewater,Alchemy,250,
+1244645,Lesser Discolored Healing Potion,Alchemy,85,1
+1244646,Discolored Healing Potion,Alchemy,135,1
+1244647,Greater Discolored Healing Potion,Alchemy,175,1
+1244648,Superior Discolored Healing Potion,Alchemy,230,1
+1245246,Minor Arcane Elixir,Alchemy,10,
+1245250,Elixir of Minor Force,Alchemy,10,
+1245287,Copper Rod,Blacksmithing,10,
+1245320,Dust to Motes,Enchanting,10,
+1245321,Novice's Practice Wand,Enchanting,10,
+1248458,Enchant Bracer - Minor Intellect,Enchanting,70,0
+1248459,Enchant Bracer - Minor Healing Power,Enchanting,90,0
+1248460,Enchant Bracer - Lesser Agility,Enchanting,140,0
+1248461,Twisted Nether Wand,Enchanting,185,
+1248497,Enchant Bracer - Agility,Enchanting,190,
+1248498,Enchant Bracer - Lesser Healing Power,Enchanting,205,0
+1248500,Enchant Bracer - Greater Agility,Enchanting,240,
+1248505,Lesser Eternal Wand,Enchanting,245,
+1248509,Dreambough Wand,Enchanting,215,
+1248510,Enchant 2H Weapon - Lesser Agility,Enchanting,210,
+1248511,Enchant 2H Weapon - Lesser Strength,Enchanting,220,
+1248515,Greater Eternal Wand,Enchanting,275,
+1248528,Enchant Gloves - Advanced Skinning,Enchanting,250,
+1248599,Enchant Bracer - Superior Agility,Enchanting,295,
+1248607,Enchant 2H Weapon - Mighty Spell Power,Enchanting,300,0
+1248636,Enchant 2H Weapon - Mighty Healing Power,Enchanting,300,0
+1248640,Enchant Gloves - Superior Strength,Enchanting,300,0
+1248645,Enchant Gloves - Natural Power,Enchanting,300,0
+1248650,Brilliant Wand,Enchanting,275,0
+1248661,Enchant Bracer - Superior Intellect,Enchanting,300,0
+1248665,Enchant Bracer - Superior Deflection,Enchanting,300,0
+1248668,Enchant 2H Weapon - Strength,Enchanting,290,
+1248703,Glimmering Staff,Enchanting,140,0
+1248739,Soulstaff,Enchanting,140,0
+1248745,Orb of Mystic Insight,Enchanting,140,0
+1248748,Orb of Souls,Enchanting,140,0
+1248752,Mystic Mushroom,Enchanting,130,0
+1248754,Tenets of the Silver Hand,Enchanting,130,0
+1248755,Polished Driftwood Icon,Enchanting,130,0
+1248757,Enchant Weapon - Insight,Enchanting,140,0
+1248760,Enchant Weapon - Recovery,Enchanting,140,0
+1248805,Enchant Weapon - Revelation,Enchanting,140,0
+1248974,Talons of Wrath,Enchanting,210,0
+1249006,Libram of Invocation,Enchanting,210,0
+1249015,Totem of Ancestral Protection,Enchanting,210,0
+1249019,Enchant Necklace - Strength,Enchanting,210,0
+1249057,Enchant Necklace - Spell Power,Enchanting,210,0
+1249058,Enchant Necklace - Healing Power,Enchanting,210,0
+1249059,Enchant Necklace - Agility,Enchanting,210,0
+1249060,Enchant Necklace - Deflection,Enchanting,210,0
+1249061,Radiant Staff,Enchanting,220,0
+1249064,Dreamstaff,Enchanting,220,0
+1249069,Truesilver Conduit,Enchanting,220,0
+1249070,Twisting Essence Jar,Enchanting,220,0
+1249071,Enchant Chest - Absorption,Enchanting,220,0
+1249107,Frozen Heart of the Mountain,Enchanting,285,
+1249112,Molten Heart of the Mountain,Enchanting,285,
+1249114,Dormant Heart of the Mountain,Enchanting,285,
+1249128,Idol of the Dream,Enchanting,300,0
+1249152,Libram of Holy Alacrity,Enchanting,300,0
+1249154,Totem of Thunder,Enchanting,300,0
+1249630,Cerulean Dye,Alchemy,50,1
+1249631,Magenta Dye,Alchemy,130,1
+1249632,Viridian Dye,Alchemy,230,1
+1249633,Sulfuric Acid,Alchemy,50,1
+1249634,Sandpaper,Engineering,130,1
+1249637,Smelt Azerothium,Mining,275,1
+1250775,Revealing Draught,Alchemy,205,
+1250776,Draught of Predatory Senses,Alchemy,195,
+1250777,Elixir of Cunning,Alchemy,275,0
+1250778,Elixir of the Phalanx,Alchemy,250,0
+1250779,Minor Cleric's Elixir,Alchemy,45,0
+1250780,Lesser Cleric's Elixir,Alchemy,95,0
+1250781,Cleric's Elixir,Alchemy,145,0
+1250782,Greater Cleric's Elixir,Alchemy,195,0
+1250783,Elixir of Fortitude,Alchemy,150,
+1250784,Elixir of Greater Fortitude,Alchemy,200,0
+1250785,Elixir of Wicked Regeneration,Alchemy,285,0
+1250786,Elixir of the Owl,Alchemy,280,0
+1250787,Elixir of Sages,Alchemy,275,0
+1250788,Minor Mageblood Elixir,Alchemy,25,0
+1250789,Lesser Mageblood Elixir,Alchemy,75,0
+1250790,Greater Mageblood Elixir,Alchemy,175,0
+1250791,Lesser Arcane Elixir,Alchemy,120,0
+1250792,Elixir of Nature Power,Alchemy,285,0
+1250793,Elixir of Minor Spirit,Alchemy,15,0
+1250794,Elixir of Lesser Spirit,Alchemy,65,0
+1250795,Elixir of Spirit,Alchemy,115,0
+1250796,Elixir of Greater Spirit,Alchemy,165,0
+1250797,Elixir of the Whale,Alchemy,275,0
+1250798,Elixir of Strength,Alchemy,150,
+1250799,Elixir of Ferocity,Alchemy,275,0
+1250800,Elixir of the Grizzly,Alchemy,300,0
+1250801,Elixir of Lesser Intellect,Alchemy,95,0
+1250802,Elixir of Intellect,Alchemy,135,0
+1251729,Minor Spellblasting Potion,Alchemy,35,0
+1251730,Lesser Spellblasting Potion,Alchemy,85,0
+1251731,Spellblasting Potion,Alchemy,135,0
+1251732,Greater Spellblasting Potion,Alchemy,185,0
+1251733,Superior Spellblasting Potion,Alchemy,235,
+1251734,Major Spellblasting Potion,Alchemy,285,0
+1251735,Minor Frenzy Potion,Alchemy,40,0
+1251736,Lesser Frenzy Potion,Alchemy,90,0
+1251737,Frenzy Potion,Alchemy,140,0
+1251738,Greater Frenzy Potion,Alchemy,190,0
+1251739,Superior Frenzy Potion,Alchemy,240,
+1251740,Major Frenzy Potion,Alchemy,290,0
+1251741,Minor Mender's Potion,Alchemy,30,0
+1251742,Lesser Mender's Potion,Alchemy,80,0
+1251743,Mender's Potion,Alchemy,130,0
+1251744,Greater Mender's Potion,Alchemy,185,
+1251745,Superior Mender's Potion,Alchemy,230,
+1251747,Major Mender's Potion,Alchemy,280,0
+1251748,Potion of Venomous Blood,Alchemy,275,0
+1251749,Caustic Smog Potion,Alchemy,265,0
+1251750,Disorienting Smog Potion,Alchemy,180,0
+1251751,Dragonfire Potion,Alchemy,245,0
+1251752,Potion of Elemental Purging,Alchemy,280,0
+1251753,Potion of Beast Slaying,Alchemy,280,
+1252229,Gemmed Copper Boots,Blacksmithing,35,1
+1252230,Strange Copper Boots,Blacksmithing,35,1
+1252231,Glowing Copper Boots,Blacksmithing,35,1
+1252232,Sterling Silver Boots,Blacksmithing,100,0
+1252233,Sterling Silver Leggings,Blacksmithing,105,0
+1252234,Sterling Silver Gauntlet,Blacksmithing,105,0
+1252235,Sterling Silver Shoulders,Blacksmithing,110,0
+1252236,Sterling Silver Breastplate,Blacksmithing,125,0
+1252237,Veteran's Chain Shirt,Blacksmithing,85,
+1252238,Guard's Chain Shirt,Blacksmithing,80,0
+1252239,Protector's Chain Shirt,Blacksmithing,85,
+1252240,Acolyte's Chain Shirt,Blacksmithing,85,
+1252241,Crusader's Chain Shirt,Blacksmithing,85,
+1252242,Veteran's Chain Leggings,Blacksmithing,100,
+1252243,Guard's Chain Leggings,Blacksmithing,100,
+1252244,Protector's Chain Leggings,Blacksmithing,100,
+1252245,Acolyte's Chain Leggings,Blacksmithing,100,
+1252246,Crusader's Chain Leggings,Blacksmithing,100,
+1252247,Veteran's Chain Helm,Blacksmithing,130,
+1252248,Guard's Chain Helm,Blacksmithing,130,
+1252249,Protector's Chain Helm,Blacksmithing,130,
+1252250,Acolyte's Chain Helm,Blacksmithing,130,
+1252251,Crusader's Chain Helm,Blacksmithing,130,
+1252252,Veteran's Boots,Blacksmithing,85,0
+1252253,Guard's Boots,Blacksmithing,85,0
+1252254,Protector's Boots,Blacksmithing,85,0
+1252255,Acolyte's Boots,Blacksmithing,85,0
+1252256,Crusader's Boots,Blacksmithing,85,0
+1252257,Veteran's Gloves,Blacksmithing,80,0
+1252258,Guard's Gloves,Blacksmithing,80,0
+1252259,Protector's Gloves,Blacksmithing,80,0
+1252260,Acolyte's Gloves,Blacksmithing,80,0
+1252261,Crusader's Gloves,Blacksmithing,80,0
+1252262,Veteran's Chain Belt,Blacksmithing,45,0
+1252263,Guard's Chain Belt,Blacksmithing,45,0
+1252264,Protector's Chain Belt,Blacksmithing,45,0
+1252265,Acolyte's Chain Belt,Blacksmithing,45,0
+1252266,Crusader's Chain Belt,Blacksmithing,45,0
+1252267,Veteran's Silvered Chain Shirt,Blacksmithing,110,0
+1252268,Guard's Silvered Chain Shirt,Blacksmithing,110,0
+1252269,Protector's Silvered Chain Shirt,Blacksmithing,110,0
+1252270,Acolyte's Silvered Chain Shirt,Blacksmithing,110,0
+1252271,Crusader's Silvered Chain Shirt,Blacksmithing,110,0
+1252272,Veteran's Silvered Chain Leggings,Blacksmithing,125,0
+1252273,Guard's Silvered Chain Leggings,Blacksmithing,125,0
+1252274,Protector's Silvered Chain Leggings,Blacksmithing,125,0
+1252275,Acolyte's Silvered Chain Leggings,Blacksmithing,125,0
+1252276,Crusader's Silvered Chain Leggings,Blacksmithing,125,0
+1252277,Veteran's Silvered Chain Helm,Blacksmithing,95,0
+1252278,Guard's Silvered Chain Helm,Blacksmithing,95,0
+1252279,Protector's Silvered Chain Helm,Blacksmithing,95,0
+1252280,Acolyte's Silvered Chain Helm,Blacksmithing,95,0
+1252281,Crusader's Silvered Chain Helm,Blacksmithing,95,0
+1252282,Hard Gold Cuirass,Blacksmithing,145,0
+1252283,Hard Gold Boots,Blacksmithing,150,0
+1252284,Hard Gold Bracers,Blacksmithing,160,
+1252285,Hard Gold Leggings,Blacksmithing,165,
+1252286,Hard Gold Coif,Blacksmithing,170,
+1252287,Hard Gold Gauntlet,Blacksmithing,175,0
+1252288,Hard Gold Pauldrons,Blacksmithing,175,0
+1252289,Shining Mithril Breastplate,Blacksmithing,195,
+1252290,Shining Mithril Pauldrons,Blacksmithing,195,
+1252291,Shining Mithril Boots,Blacksmithing,200,0
+1252292,Shining Mithril Helm,Blacksmithing,235,
+1252293,Shining Mithril Pants,Blacksmithing,220,
+1252294,Shining Mithril Gauntlet,Blacksmithing,220,
+1252295,Officer's Boots,Blacksmithing,200,
+1252296,Sentinel's Boots,Blacksmithing,200,
+1252297,Warder's Boots,Blacksmithing,200,
+1252298,Prefect's Boots,Blacksmithing,200,
+1252299,Justicar's Boots,Blacksmithing,200,
+1252300,Officer's Gloves,Blacksmithing,250,
+1252301,Sentinel's Gloves,Blacksmithing,250,
+1252302,Warder's Gloves,Blacksmithing,250,
+1252303,Prefect's Gloves,Blacksmithing,250,
+1252304,Justicar's Gloves,Blacksmithing,250,
+1252305,Officer's Belt,Blacksmithing,150,1
+1252306,Sentinel's Belt,Blacksmithing,150,1
+1252307,Warder's Belt,Blacksmithing,150,1
+1252308,Prefect's Belt,Blacksmithing,150,1
+1252309,Justicar's Belt,Blacksmithing,150,1
+1252310,Officer's Sabatons,Blacksmithing,240,0
+1252311,Sentinel's Sabatons,Blacksmithing,240,0
+1252312,Warder's Sabatons,Blacksmithing,240,0
+1252313,Prefect's Sabatons,Blacksmithing,240,0
+1252314,Justicar's Sabatons,Blacksmithing,240,0
+1252315,Officer's Gauntlet,Blacksmithing,175,0
+1252316,Sentinel's Gauntlet,Blacksmithing,175,0
+1252317,Warder's Gauntlet,Blacksmithing,175,0
+1252318,Prefect's Gauntlet,Blacksmithing,175,0
+1252319,Justicar's Gauntlet,Blacksmithing,175,0
+1252320,Officer's Waistguard,Blacksmithing,250,0
+1252321,Sentinel's Waistguard,Blacksmithing,250,0
+1252322,Warder's Waistguard,Blacksmithing,250,0
+1252323,Prefect's Waistguard,Blacksmithing,270,0
+1252324,Justicar's Waistguard,Blacksmithing,250,0
+1252325,Officer's Pauldrons,Blacksmithing,210,0
+1252326,Sentinel's Pauldrons,Blacksmithing,210,0
+1252327,Warder's Pauldrons,Blacksmithing,210,0
+1252328,Prefect's Pauldrons,Blacksmithing,210,0
+1252329,Justicar's Pauldrons,Blacksmithing,210,0
+1252330,Officer's Wristguards,Blacksmithing,225,0
+1252331,Sentinel's Wristguards,Blacksmithing,225,0
+1252332,Warder's Wristguards,Blacksmithing,225,0
+1252333,Prefect's Wristguards,Blacksmithing,225,0
+1252334,Justicar's Wristguards,Blacksmithing,225,0
+1252335,Blessed Plate Pauldrons,Blacksmithing,240,
+1252336,Blessed Plate Boots,Blacksmithing,240,
+1252337,Blessed Plate Gauntlet,Blacksmithing,245,
+1252338,Imperial Plate Gauntlets,Blacksmithing,255,
+1252339,Blessed Plate Bracers,Blacksmithing,255,
+1252340,Blessed Plate Leggings,Blacksmithing,270,
+1252341,Blessed Plate Belt,Blacksmithing,270,
+1252342,Blessed Plate Helm,Blacksmithing,275,
+1252343,Blessed Plate Chest,Blacksmithing,280,
+1252344,Enriched Thorium Breastplate,Blacksmithing,300,0
+1252345,Enriched Thorium Leggings,Blacksmithing,300,0
+1252346,Enriched Thorium Helm,Blacksmithing,300,0
+1252347,Champion's Legplates,Blacksmithing,300,
+1252348,Stalwart Helm,Blacksmithing,300,
+1252349,Martyr's Legplates,Blacksmithing,300,
+1252350,Breastplate of Salvation,Blacksmithing,300,
+1252351,Brass Knuckles,Blacksmithing,80,0
+1252352,Bronze Dory,Blacksmithing,95,0
+1252353,Iron Fists,Blacksmithing,130,0
+1252354,Steel Spear,Blacksmithing,160,0
+1252355,Iron Morningstar,Blacksmithing,165,0
+1252356,Mithril Shortsword,Blacksmithing,180,0
+1252357,Mithril Warhammer,Blacksmithing,190,0
+1252358,Mithril Claws,Blacksmithing,195,0
+1252359,Mithril Claymore,Blacksmithing,195,
+1252360,Mithril Stiletto,Blacksmithing,210,
+1252361,Charged Mithril Battleaxe,Blacksmithing,215,
+1252362,Thorium Greatmace,Blacksmithing,250,0
+1252363,Thorium Cestus,Blacksmithing,250,0
+1252364,Thorium Poleaxe,Blacksmithing,260,
+1252365,Bold Dirk,Blacksmithing,270,0
+1252366,Stormcarver,Blacksmithing,300,
+1252367,Bagh Nakh,Blacksmithing,300,
+1252368,Legionite Glaive,Blacksmithing,300,0
+1254965,Forceful Rugged Armor Kit,Leatherworking,235,0
+1254966,Mystic Rugged Armor Kit,Leatherworking,235,0
+1254967,Pristine Scorpid Leggings,Leatherworking,300,
+1254968,Black Dragonscale Helm,Leatherworking,300,
+1254969,Blue Dragonscale Helm,Leatherworking,300,
+1254970,Red Dragonscale Leggings,Leatherworking,300,
+1254971,Charged Scorpid Boots,Leatherworking,280,
+1254972,Supple Scorpid Sabatons,Leatherworking,280,
+1254973,Charged Scorpid Leggings,Leatherworking,270,
+1254974,Supple Scorpid Vest,Leatherworking,270,0
+1254975,Charged Scorpid Vest,Leatherworking,260,
+1254976,Supple Scorpid Helm,Leatherworking,260,
+1254977,Charged Scorpid Gauntlets,Leatherworking,255,
+1254978,Supple Scorpid Belt,Leatherworking,255,
+1254979,Heavy Scorpid Boots,Leatherworking,255,
+1254980,Charged Scorpid Bracers,Leatherworking,255,
+1254981,Supple Scorpid Shoulder,Leatherworking,255,
+1254982,Mender's Mail Belt,Leatherworking,250,0
+1254983,Skirmisher's Mail Belt,Leatherworking,250,0
+1254984,Skycaller's Mail Belt,Leatherworking,250,0
+1254985,Stalker's Mail Belt,Leatherworking,250,0
+1254986,Mender's Mail Gauntlets,Leatherworking,250,
+1254987,Skirmisher's Mail Gauntlets,Leatherworking,250,
+1254988,Skycaller's Mail Gauntlets,Leatherworking,250,
+1254989,Stalker's Mail Gauntlets,Leatherworking,250,
+1254990,Charged Scorpid Shoulder,Leatherworking,250,
+1254991,Supple Scorpid Bracers,Leatherworking,250,
+1254992,Charged Scorpid Helm,Leatherworking,240,
+1254993,Supple Scorpid Leggings,Leatherworking,240,
+1254994,Mender's Mail Sabatons,Leatherworking,235,0
+1254995,Skirmisher's Mail Sabatons,Leatherworking,235,0
+1254996,Skycaller's Mail Sabatons,Leatherworking,235,0
+1254997,Stalker's Mail Sabatons,Leatherworking,235,0
+1254998,Charged Scorpid Belt,Leatherworking,230,
+1254999,Supple Scorpid Boots,Leatherworking,230,
+1255000,Mender's Mail Bracers,Leatherworking,225,0
+1255001,Skirmisher's Mail Bracers,Leatherworking,225,0
+1255002,Skycaller's Mail Bracers,Leatherworking,225,0
+1255003,Stalker's Mail Bracers,Leatherworking,225,0
+1255004,Mender's Mail Shoulder,Leatherworking,210,0
+1255005,Skirmisher's Mail Shoulder,Leatherworking,210,0
+1255006,Skycaller's Mail Shoulder,Leatherworking,210,0
+1255007,Stalker's Mail Shoulder,Leatherworking,210,0
+1255008,Mender's Mail Boots,Leatherworking,200,
+1255009,Skirmisher's Mail Boots,Leatherworking,200,
+1255010,Skycaller's Mail Boots,Leatherworking,200,
+1255011,Stalker's Mail Boots,Leatherworking,200,
+1255012,Ironfeather Leggings,Leatherworking,300,
+1255013,Warbear Helm,Leatherworking,300,
+1255014,Timbermaw Tunic,Leatherworking,300,
+1255015,Dawn Armor,Leatherworking,300,
+1255016,Living Crown,Leatherworking,300,
+1255017,Blue Suede Hat,Leatherworking,280,
+1255018,Tooled Leather Pants,Leatherworking,280,
+1255019,Blue Suede Bracers,Leatherworking,275,
+1255020,Tooled Leather Epaulets,Leatherworking,275,
+1255021,Blue Suede Belt,Leatherworking,270,
+1255022,Tooled Leather Bracers,Leatherworking,270,
+1255023,Wicked Leather Shoulder,Leatherworking,270,
+1255024,Blue Suede Armor,Leatherworking,265,0
+1255025,Tooled Leather Crown,Leatherworking,265,
+1255026,Blue Suede Shoulder,Leatherworking,260,
+1255027,Tooled Leather Gauntlets,Leatherworking,260,
+1255028,Wicked Leather Boots,Leatherworking,260,
+1255029,Blue Suede Pants,Leatherworking,255,
+1255030,Tooled Leather Armor,Leatherworking,255,0
+1255031,Mender's Leather Waistguard,Leatherworking,250,0
+1255032,Skycaller's Leather Waistguard,Leatherworking,250,0
+1255033,Warden's Leather Waistguard,Leatherworking,250,0
+1255034,Skulker's Leather Waistguard,Leatherworking,250,0
+1255035,Prowler's Leather Waistguard,Leatherworking,250,0
+1255036,Mender's Leather Gauntlets,Leatherworking,250,
+1255037,Skycaller's Leather Gauntlets,Leatherworking,250,
+1255038,Warden's Leather Gauntlets,Leatherworking,250,
+1255039,Skulker's Leather Gauntlets,Leatherworking,250,
+1255040,Prowler's Leather Gauntlets,Leatherworking,250,
+1255041,Blue Suede Gloves,Leatherworking,240,
+1255042,Tooled Leather Boots,Leatherworking,240,
+1255043,Mender's Leather Boots,Leatherworking,235,0
+1255044,Skycaller's Leather Boots,Leatherworking,235,0
+1255045,Warden's Leather Boots,Leatherworking,235,0
+1255046,Skulker's Leather Boots,Leatherworking,235,0
+1255047,Prowler's Leather Boots,Leatherworking,235,0
+1255048,Blue Suede Shoes,Leatherworking,235,
+1255049,Tooled Leather Belt,Leatherworking,235,
+1255050,Mender's Leather Bracers,Leatherworking,225,0
+1255051,Skycaller's Leather Bracers,Leatherworking,225,0
+1255052,Warden's Leather Bracers,Leatherworking,225,0
+1255053,Skulker's Leather Bracers,Leatherworking,225,0
+1255054,Prowler's Leather Bracers,Leatherworking,225,0
+1255055,Mender's Leather Shoulder,Leatherworking,210,0
+1255056,Skycaller's Leather Shoulder,Leatherworking,210,0
+1255057,Warden's Leather Shoulder,Leatherworking,210,0
+1255058,Skulker's Leather Shoulder,Leatherworking,210,0
+1255059,Prowler's Leather Shoulder,Leatherworking,210,0
+1255060,Mender's Leather Shoes,Leatherworking,200,0
+1255061,Skycaller's Leather Shoes,Leatherworking,200,
+1255062,Warden's Leather Shoes,Leatherworking,200,0
+1255063,Skulker's Leather Shoes,Leatherworking,200,
+1255064,Prowler's Leather Shoes,Leatherworking,200,
+1255065,Mender's Leather Gloves,Leatherworking,175,0
+1255066,Skycaller's Leather Gloves,Leatherworking,175,0
+1255067,Skirmisher's Leather Gloves,Leatherworking,175,0
+1255068,Warden's Leather Gloves,Leatherworking,175,0
+1255069,Stalker's Leather Gloves,Leatherworking,175,0
+1255070,Skulker's Leather Gloves,Leatherworking,175,0
+1255071,Prowler's Leather Gloves,Leatherworking,175,0
+1255073,Forceful Thick Armor Kit,Leatherworking,185,0
+1255074,Mystic Thick Armor Kit,Leatherworking,185,0
+1255075,Mender's Leather Belt,Leatherworking,150,1
+1255076,Skycaller's Leather Belt,Leatherworking,150,1
+1255077,Skirmisher's Leather Belt,Leatherworking,150,1
+1255078,Warden's Leather Belt,Leatherworking,150,1
+1255079,Stalker's Leather Belt,Leatherworking,150,1
+1255080,Skulker's Leather Belt,Leatherworking,150,1
+1255081,Prowler's Leather Belt,Leatherworking,150,1
+1255082,Wisdom's Leather Leggings,Leatherworking,125,0
+1255083,Stormrider's Leather Kilt,Leatherworking,125,0
+1255084,Totemic Leather Leggings,Leatherworking,125,0
+1255085,Defender's Leather Kilt,Leatherworking,125,0
+1255086,Trapper's Leather Legguards,Leatherworking,125,0
+1255087,Brawler's Leather Legguards,Leatherworking,125,0
+1255088,Wisdom's Leather Helm,Leatherworking,130,
+1255089,Stormrider's Leather Helm,Leatherworking,130,
+1255090,Totemic Leather Helm,Leatherworking,130,
+1255091,Defender's Leather Helm,Leatherworking,130,
+1255092,Trapper's Leather Helm,Leatherworking,130,
+1255093,Brawler's Leather Helm,Leatherworking,130,
+1255095,Forceful Heavy Armor Kit,Leatherworking,135,0
+1255096,Mystic Heavy Armor Kit,Leatherworking,135,0
+1255097,Wisdom's Leather Tunic,Leatherworking,110,0
+1255098,Stormrider's Leather Tunic,Leatherworking,110,0
+1255099,Totemic Leather Tunic,Leatherworking,110,0
+1255100,Defender's Leather Tunic,Leatherworking,110,0
+1255101,Trapper's Leather Tunic,Leatherworking,110,0
+1255102,Brawler's Leather Tunic,Leatherworking,110,0
+1255103,Hillman's Leather Boots,Leatherworking,110,0
+1255104,Wisdom's Leather Hood,Leatherworking,100,0
+1255105,Stormrider's Leather Hood,Leatherworking,100,0
+1255106,Totemic Leather Hood,Leatherworking,100,0
+1255107,Defender's Leather Hood,Leatherworking,100,0
+1255108,Trapper's Leather Hood,Leatherworking,100,0
+1255109,Brawler's Leather Hood,Leatherworking,100,0
+1255110,Wisdom's Leather Pants,Leatherworking,105,
+1255111,Stormrider's Leather Pants,Leatherworking,105,
+1255112,Totemic Leather Pants,Leatherworking,105,
+1255113,Defender's Leather Pants,Leatherworking,105,
+1255114,Trapper's Leather Pants,Leatherworking,105,
+1255115,Brawler's Leather Pants,Leatherworking,105,
+1255116,Wisdom's Leather Boots,Leatherworking,85,0
+1255117,Stormrider's Leather Boots,Leatherworking,85,0
+1255118,Totemic Leather Boots,Leatherworking,85,0
+1255119,Defender's Leather Boots,Leatherworking,85,0
+1255120,Trapper's Leather Boots,Leatherworking,85,0
+1255121,Brawler's Leather Boots,Leatherworking,85,0
+1255123,Forceful Medium Armor Kit,Leatherworking,80,0
+1255124,Mystic Medium Armor Kit,Leatherworking,80,0
+1255125,Wisdom's Leather Gloves,Leatherworking,75,0
+1255126,Stormrider's Leather Gloves,Leatherworking,75,0
+1255127,Totemic Leather Gloves,Leatherworking,75,0
+1255128,Defender's Leather Gloves,Leatherworking,75,0
+1255129,Trapper's Leather Gloves,Leatherworking,75,0
+1255130,Brawler's Leather Gloves,Leatherworking,75,0
+1255131,Wisdom's Leather Armor,Leatherworking,80,
+1255132,Stormrider's Leather Armor,Leatherworking,80,
+1255133,Totemic Leather Armor,Leatherworking,80,
+1255134,Defender's Leather Armor,Leatherworking,80,
+1255135,Trapper's Leather Armor,Leatherworking,80,
+1255136,Brawler's Leather Armor,Leatherworking,80,
+1255137,Wisdom's Leather Belt,Leatherworking,60,0
+1255138,Stormrider's Leather Belt,Leatherworking,60,0
+1255139,Totemic Leather Belt,Leatherworking,60,0
+1255140,Defender's Leather Belt,Leatherworking,60,0
+1255141,Trapper's Leather Belt,Leatherworking,60,0
+1255142,Brawler's Leather Belt,Leatherworking,60,0
+1255143,Moonglow Boots,Leatherworking,35,1
+1255144,Murloc Scale Shoes,Leatherworking,35,1
+1255145,Dark Leather Boots,Leatherworking,35,1
+1255146,Black Whelp Slippers,Leatherworking,35,1
+1257013,Linen Reagent Bag,Tailoring,5,0
+1257017,Woolen Reagent Bag,Tailoring,70,0
+1257368,Novice Arcanist's Sash,Tailoring,50,1
+1257369,Novice Ardent's Sash,Tailoring,50,1
+1257370,Pristine Boots,Tailoring,60,0
+1257371,Silky Boots,Tailoring,60,0
+1257372,Flame Boots,Tailoring,60,0
+1257373,Shadow Boots,Tailoring,60,0
+1257374,Pearly Boots,Tailoring,60,0
+1257375,Shining Boots,Tailoring,60,0
+1257376,Filigreed Pristine Gown,Tailoring,75,0
+1257377,Filigreed Silky Gown,Tailoring,75,0
+1257378,Filigreed Flame Gown,Tailoring,75,0
+1257379,Filigreed Shadow Gown,Tailoring,75,0
+1257380,Filigreed Pearly Gown,Tailoring,75,0
+1257381,Filigreed Shining Gown,Tailoring,75,0
+1257382,Pristine Gloves,Tailoring,75,0
+1257383,Silky Gloves,Tailoring,75,0
+1257384,Flame Gloves,Tailoring,75,0
+1257385,Shadow Gloves,Tailoring,75,0
+1257386,Pearly Gloves,Tailoring,75,0
+1257387,Shining Gloves,Tailoring,75,0
+1257388,Pristine Sash,Tailoring,85,0
+1257389,Silky Sash,Tailoring,85,0
+1257390,Flame Sash,Tailoring,85,0
+1257391,Shadow Sash,Tailoring,85,0
+1257392,Pearly Sash,Tailoring,85,0
+1257393,Shining Sash,Tailoring,85,0
+1257394,Filigreed Pristine Leggings,Tailoring,100,0
+1257395,Filigreed Silky Leggings,Tailoring,100,0
+1257396,Filigreed Flame Leggings,Tailoring,100,0
+1257397,Filigreed Shadow Leggings,Tailoring,100,0
+1257398,Filigreed Pearly Leggings,Tailoring,100,0
+1257399,Filigreed Shining Leggings,Tailoring,100,0
+1257400,Pristine Circlet,Tailoring,100,0
+1257401,Silky Circlet,Tailoring,100,0
+1257402,Flame Circlet,Tailoring,100,0
+1257403,Shadow Circlet,Tailoring,100,0
+1257404,Pearly Circlet,Tailoring,100,0
+1257405,Shining Circlet,Tailoring,100,0
+1257406,Pristine Gown,Tailoring,110,0
+1257407,Silky Gown,Tailoring,110,0
+1257408,Flame Gown,Tailoring,110,0
+1257409,Shadow Gown,Tailoring,110,0
+1257410,Pearly Gown,Tailoring,110,0
+1257411,Shining Gown,Tailoring,110,0
+1257412,Silk Reagent Bag,Tailoring,125,0
+1257413,Filigreed Pristine Circlet,Tailoring,125,0
+1257414,Filigreed Silky Circlet,Tailoring,125,0
+1257415,Filigreed Flame Circlet,Tailoring,125,0
+1257416,Filigreed Shadow Circlet,Tailoring,125,0
+1257417,Filigreed Pearly Circlet,Tailoring,125,0
+1257418,Filigreed Shining Circlet,Tailoring,125,0
+1257419,Pristine Leggings,Tailoring,125,0
+1257420,Silky Leggings,Tailoring,125,0
+1257421,Flame Leggings,Tailoring,125,0
+1257422,Shadow Leggings,Tailoring,125,0
+1257423,Pearly Leggings,Tailoring,125,0
+1257424,Shining Leggings,Tailoring,125,0
+1257425,Earthen Leggings,Tailoring,140,
+1257426,Gilded Slippers,Tailoring,140,1
+1257427,Frothing Slippers,Tailoring,140,1
+1257428,Fiery Slippers,Tailoring,140,1
+1257429,Black Slippers,Tailoring,140,1
+1257430,Golden Slippers,Tailoring,140,1
+1257431,Radiant Slippers,Tailoring,140,1
+1257432,Earthen Silk Slippers,Tailoring,145,
+1257433,Earthen Silk Hood,Tailoring,150,
+1257434,Earthen Silk Gloves,Tailoring,160,
+1257435,Earthen Silk Cuffs,Tailoring,165,0
+1257436,Gilded Handwraps,Tailoring,165,
+1257437,Frothing Handwraps,Tailoring,165,0
+1257438,Fiery Handwraps,Tailoring,165,0
+1257439,Black Handwraps,Tailoring,165,0
+1257440,Golden Handwraps,Tailoring,165,0
+1257441,Radiant Handwraps,Tailoring,165,0
+1257442,Earthen Silk Shoulders,Tailoring,170,
+1257443,Mageweave Reagent Bag,Tailoring,190,0
+1257444,Gilded Cord,Tailoring,190,
+1257445,Frothing Cord,Tailoring,190,
+1257446,Fiery Cord,Tailoring,190,
+1257447,Black Cord,Tailoring,190,
+1257448,Golden Cord,Tailoring,190,
+1257449,Radiant Cord,Tailoring,190,
+1257450,Nethergeld Shoulders,Tailoring,195,0
+1257451,Netherfroth Shoulders,Tailoring,195,0
+1257452,Netherflame Shoulders,Tailoring,195,0
+1257453,Netherpearl Shoulders,Tailoring,195,0
+1257454,Nethershine Shoulders,Tailoring,195,0
+1257455,Netherlight Shoulders,Tailoring,195,0
+1257456,Nethergeld Cuffs,Tailoring,205,0
+1257457,Netherfroth Cuffs,Tailoring,205,0
+1257458,Netherflame Cuffs,Tailoring,205,0
+1257459,Netherpearl Cuffs,Tailoring,205,0
+1257460,Nethershine Cuffs,Tailoring,205,0
+1257461,Netherlight Cuffs,Tailoring,205,0
+1257462,Ghostweave Cord,Tailoring,215,
+1257463,Earthenweave Gloves,Tailoring,215,
+1257464,Earthenweave Cord,Tailoring,215,
+1257465,Runecloth Reagent Bag,Tailoring,215,0
+1257466,Gilded Waistcord,Tailoring,215,0
+1257467,Frothing Waistcord,Tailoring,215,0
+1257468,Fiery Waistcord,Tailoring,215,0
+1257469,Black Waistcord,Tailoring,215,0
+1257470,Golden Waistcord,Tailoring,215,0
+1257471,Radiant Waistcord,Tailoring,215,0
+1257472,Earthenweave Boots,Tailoring,225,
+1257473,Gilded Gloves,Tailoring,235,
+1257474,Frothing Gloves,Tailoring,235,
+1257475,Fiery Gloves,Tailoring,235,
+1257476,Black Gloves,Tailoring,235,
+1257477,Golden Gloves,Tailoring,235,
+1257478,Radiant Gloves,Tailoring,235,
+1257479,Gilded Sandals,Tailoring,235,0
+1257480,Frothing Sandals,Tailoring,235,0
+1257481,Fiery Sandals,Tailoring,235,0
+1257482,Black Sandals,Tailoring,235,0
+1257483,Golden Sandals,Tailoring,235,0
+1257484,Radiant Sandals,Tailoring,235,0
+1257485,Earthenweave Mantle,Tailoring,240,
+1257486,Earthenweave Vest,Tailoring,250,
+1257487,Runecloth Cuffs,Tailoring,250,0
+1257488,Earthenweave Leggings,Tailoring,245,
+1257489,Ghostweave Mantle,Tailoring,250,
+1257490,Ghostweave Boots,Tailoring,255,
+1257491,Earthenweave Cuffs,Tailoring,255,
+1257492,Mooncloth Reagent Bag,Tailoring,255,
+1257493,Ghostweave Hood,Tailoring,260,
+1257494,Earthenweave Crown,Tailoring,260,
+1257495,Bottomless Reagent Bag,Tailoring,300,
+1262975,Rock Garden,Mining,140,0
+1263005,Fermenter,Alchemy,140,0
+1263031,Tanning Rack,Leatherworking,140,0
+1263032,Spinning Wheel,Tailoring,140,
+1263034,Repair Bot,Engineering,140,0
+1263041,Anvil,Blacksmithing,140,0
+1263056,Arcane Salvager,Enchanting,140,0
+1263071,Molten Foundry,Mining,300,
+1263073,Master Forge,Blacksmithing,300,
+1263078,Alchemy Laboratory,Alchemy,300,
+1263079,Sewing Machine,Leatherworking,300,
+1263080,Loom,Tailoring,300,
+1263082,Arcane Forge,Enchanting,300,
+1263083,Anarchist's Workbench,Engineering,300,
+1263425,Faction Banner,Tailoring,20,1
+1266893,SAF-T Tabs,Engineering,25,0
+1266905,SAF-T Dynamite,Engineering,25,0
+1266906,SAF-T Copper Bomb,Engineering,55,0
+1266907,EZ-Thro Wrap,Engineering,100,0
+1266908,EZ-Thro Copper Bomb XL,Engineering,130,0
+1266909,No Slip SAF-T Padding,Engineering,145,0
+1266910,SAF-T Bronze Bomb,Engineering,145,0
+1266911,SAF-T Jumbo Dynamite,Engineering,150,
+1266912,SAF-T Bell,Engineering,175,0
+1266913,Shafety Sheep,Engineering,175,
+1266914,EZ-Thro Fireproof Fuse,Engineering,190,0
+1266915,EZ-Thro Bronze Mortar,Engineering,190,
+1266916,EZ-Thro Grenade,Engineering,200,
+1266917,SAF-T Casing,Engineering,215,
+1266918,SAF-T Bomb,Engineering,215,
+1266919,Emergency Field Cloak,Engineering,225,0
+1266920,Compact Critter Carrier,Engineering,225,0
+1266921,EZ-Thro Tru-Trigger,Engineering,240,
+1266922,Tru-Trigger Frag Bomb,Engineering,240,
+1266923,SAF-T Disposable Parachute,Engineering,250,0
+1266924,Gnomish Army Knife,Engineering,250,0
+1266925,Loot-A-Rang,Engineering,275,0
+1266926,SAF-T Tube,Engineering,275,
+1266927,SAF-T Clever Dynamite,Engineering,275,
+1266928,EZ-Thro Shell,Engineering,285,
+1266929,EZ-Thro Thorium Grenade,Engineering,285,
+1266930,EZ-Thro Dark Bomb,Engineering,300,
+1266931,EZ-Thro Mana Bomb,Engineering,300,
+1266932,EZ-Thro Field Transporter: Gadgetzan,Engineering,300,
+1266933,SAF-T Emergency Ripper: Everlook,Engineering,300,
+1266934,EZ and SAF Field Transporter: Mt. Hyjal,Engineering,300,
+1266935,Ultrasafe Rechargeable Battery,Engineering,300,0
+1266936,Dimensional Transporter - Mt. Hyjal,Engineering,300,0
+1266937,Gnomish Poultryizer,Engineering,300,0
+1266938,Ultralight Goblin Glider,Engineering,300,0
+1266939,Gnomish Weather Machine,Engineering,300,
+1266940,Stealthman 52,Engineering,300,0
+1266941,SAF-T Nitro Boosts,Engineering,300,
+1266942,EZ-Thro Magnetic Displacer,Engineering,300,
+1266943,SAF-T Teleport,Engineering,300,
+1286792,Centaur Banner Deployment Device,Engineering,190,0
+1286796,Hoof-Shaped Foot Pedal,Engineering,140,0
+1292920,Grovekeeper Trousers,Leatherworking,300,0
+1292921,Grovekeeper Grips,Leatherworking,300,0
+1292923,Grovekeeper Shoulderpads,Leatherworking,300,0
+1292924,Grovekeeper Stompers,Leatherworking,300,0
+1292925,Grovekeeper Kilt,Leatherworking,300,0
+1292926,Grovekeeper Mitts,Leatherworking,300,0
+1292927,Grovekeeper Mantle,Leatherworking,300,0
+1292928,Grovekeeper Sandals,Leatherworking,300,0
+1292929,Grovekeeper Legguards,Leatherworking,300,0
+1292930,Grovekeeper Handguards,Leatherworking,300,0
+1292931,Grovekeeper Pauldrons,Leatherworking,300,0
+1292932,Grovekeeper Boots,Leatherworking,300,0
+1292933,Grovekeeper Leggings,Leatherworking,300,0
+1292934,Grovekeeper Gauntlets,Leatherworking,300,0
+1292935,Grovekeeper Spaulders,Leatherworking,300,0
+1292936,Grovekeeper Treads,Leatherworking,300,0
+1292937,Wildstalker's Legguards,Leatherworking,300,0
+1292938,Wildstalker's Gauntlets,Leatherworking,300,0
+1292939,Wildstalker's Spaulders,Leatherworking,300,0
+1292940,Wildstalker's Greaves,Leatherworking,300,0
+1292941,Manaflare Pants,Tailoring,300,0
+1292942,Manaflare Gloves,Tailoring,300,0
+1292943,Manaflare Mantle,Tailoring,300,0
+1292944,Manaflare Boots,Tailoring,300,0
+1292945,Justice Leggings,Blacksmithing,300,0
+1292946,Justice Gauntlets,Blacksmithing,300,0
+1292947,Justice Spaulders,Blacksmithing,300,0
+1292948,Justice Greaves,Blacksmithing,300,0
+1292949,Justice Legplates,Blacksmithing,300,0
+1292950,Justice Gloves,Blacksmithing,300,0
+1292951,Justice Epaulets,Blacksmithing,300,0
+1292952,Justice Treads,Blacksmithing,300,0
+1292953,Justice Legguards,Blacksmithing,300,0
+1292954,Justice Handguards,Blacksmithing,300,0
+1292955,Justice Pauldrons,Blacksmithing,300,0
+1292956,Justice Sabatons,Blacksmithing,300,0
+1292957,Pants of Conviction,Tailoring,300,0
+1292958,Gloves of Conviction,Tailoring,300,0
+1292959,Mantle of Conviction,Tailoring,300,0
+1292960,Treads of Conviction,Tailoring,300,0
+1292961,Leggings of Conviction,Tailoring,300,0
+1292962,Handguards of Conviction,Tailoring,300,0
+1292963,Pauldrons of Conviction,Tailoring,300,0
+1292964,Boots of Conviction,Tailoring,300,0
+1292965,Grimstitch Pants,Leatherworking,300,0
+1292966,Grimstitch Gloves,Leatherworking,300,0
+1292967,Grimstitch Spaulders,Leatherworking,300,0
+1292968,Grimstitch Boots,Leatherworking,300,0
+1292969,Spiritcaller Leggings,Leatherworking,300,0
+1292970,Spiritcaller Grips,Leatherworking,300,0
+1292971,Spiritcaller Spaulders,Leatherworking,300,0
+1292972,Spiritcaller Treads,Leatherworking,300,0
+1292973,Spiritcaller Pants,Leatherworking,300,0
+1292974,Spiritcaller Gauntlets,Leatherworking,300,0
+1292975,Spiritcaller Epaulets,Leatherworking,300,0
+1292976,Spiritcaller Greaves,Leatherworking,300,0
+1292977,Demonheart Leggings,Tailoring,300,0
+1292978,Demonheart Gloves,Tailoring,300,0
+1292979,Demonheart Spaulders,Tailoring,300,0
+1292980,Demonheart Boots,Tailoring,300,0
+1292981,Legplates of Glory,Blacksmithing,300,0
+1292982,Gauntlets of Glory,Blacksmithing,300,0
+1292983,Shoulders of Glory,Blacksmithing,300,0
+1292984,Greaves of Glory,Blacksmithing,300,0
+1292985,Legguards of Glory,Blacksmithing,300,0
+1292986,Handguards of Glory,Blacksmithing,300,0
+1292987,Pauldrons of Glory,Blacksmithing,300,0
+1292988,Sabatons of Glory,Blacksmithing,300,0
+1293088,9-60 Battery Pack,Engineering,125,0
+1293559,Flask of Natural Accuracy,Alchemy,300,
+1293560,Flask of Natural Aggression,Alchemy,300,
+1293561,Flask of Natural Precision,Alchemy,300,
+1293562,Flask of Natural Swiftness,Alchemy,300,
+1293849,Swiftfeather Arrow,Engineering,300,
+1293850,Swiftstrike Shot,Engineering,300,
+1294054,Enchant Gloves - Lotus Claw,Enchanting,295,
+1297120,Venomspew Gloves,Tailoring,285,0
+1297121,Venomspew Cord,Tailoring,290,0
+1297122,Venomspew Footpads,Tailoring,295,0
+1297123,Swarmtender's Gloves,Tailoring,285,0
+1297124,Swarmtender's Cord,Tailoring,290,0
+1297125,Swarmtender's Footpads,Tailoring,295,0
+1297126,Bileblister Claws,Leatherworking,285,
+1297127,Bileblister Girdle,Leatherworking,290,
+1297128,Bileblister Boots,Leatherworking,295,
+1297129,Hivethrasher's Claws,Leatherworking,285,
+1297130,Hivethrasher's Girdle,Leatherworking,290,
+1297131,Hivethrasher's Boots,Leatherworking,295,
+1297132,Scalegut Clenchers,Leatherworking,285,
+1297133,Scalegut Belt,Leatherworking,290,
+1297134,Scalegut Treaders,Leatherworking,295,
+1297135,Broodwatcher's Clenchers,Leatherworking,285,
+1297136,Broodwatcher's Belt,Leatherworking,290,
+1297137,Broodwatcher's Treaders,Leatherworking,295,
+1297138,Goregasher Grips,Blacksmithing,285,0
+1297139,Goregasher Support,Blacksmithing,290,0
+1297140,Goregasher Stompers,Blacksmithing,295,0
+1297141,Clutchlord's Grips,Blacksmithing,285,0
+1297142,Clutchlord's Support,Blacksmithing,290,0
+1297143,Clutchlord's Stompers,Blacksmithing,295,0
+1299914,Spiritcaller Kilt,Leatherworking,300,0
+1299915,Spiritcaller Gloves,Leatherworking,300,0
+1299916,Spiritcaller Mantle,Leatherworking,300,0
+1299917,Spiritcaller Boots,Leatherworking,300,0
+1301421,Cloudy Skyforged Chainmail,Blacksmithing,60,0
+1301422,Cloudy Skyforged Wristguards,Blacksmithing,50,0
+1301423,Cloudy Skyforged Gauntlets,Blacksmithing,55,0
+1301424,Cloudy Skyforged Chain,Blacksmithing,50,0
+1301425,Cloudy Skyforged Legguards,Blacksmithing,60,0
+1301426,Cloudy Skyforged Greaves,Blacksmithing,55,0
+1301427,Cloudy Gustwoven Harness,Leatherworking,60,0
+1301428,Cloudy Gustwoven Bracers,Leatherworking,50,0
+1301429,Cloudy Gustwoven Gloves,Leatherworking,55,0
+1301430,Cloudy Gustwoven Belt,Leatherworking,50,0
+1301431,Cloudy Gustwoven Trousers,Leatherworking,60,0
+1301432,Cloudy Gustwoven Boots,Leatherworking,55,0
+1301433,Cloudy Windraveled Jerkin,Leatherworking,60,0
+1301434,Cloudy Windraveled Armguards,Leatherworking,50,0
+1301435,Cloudy Windraveled Mitts,Leatherworking,55,0
+1301436,Cloudy Windraveled Strap,Leatherworking,50,0
+1301437,Cloudy Windraveled Pants,Leatherworking,60,0
+1301438,Cloudy Windraveled Footwraps,Leatherworking,55,0
+1301439,Cloudy Stormsewn Vest,Tailoring,60,0
+1301440,Cloudy Stormsewn Cuffs,Tailoring,50,0
+1301441,Cloudy Stormsewn Handwraps,Tailoring,55,0
+1301442,Cloudy Stormsewn Cord,Tailoring,50,0
+1301443,Cloudy Stormsewn Leggings,Tailoring,60,0
+1301444,Cloudy Stormsewn Shoes,Tailoring,55,0
+1301445,Azure Skyforged Chainmail,Blacksmithing,60,0
+1301446,Azure Skyforged Wristguards,Blacksmithing,50,0
+1301447,Azure Skyforged Gauntlets,Blacksmithing,55,0
+1301448,Azure Skyforged Chain,Blacksmithing,50,0
+1301449,Azure Skyforged Legguards,Blacksmithing,60,0
+1301450,Azure Skyforged Greaves,Blacksmithing,55,0
+1301451,Azure Gustwoven Harness,Leatherworking,60,0
+1301452,Azure Gustwoven Bracers,Leatherworking,50,0
+1301453,Azure Gustwoven Gloves,Leatherworking,55,0
+1301454,Azure Gustwoven Belt,Leatherworking,50,0
+1301455,Azure Gustwoven Trousers,Leatherworking,60,0
+1301456,Azure Gustwoven Boots,Leatherworking,55,0
+1301457,Azure Windraveled Jerkin,Leatherworking,60,0
+1301458,Azure Windraveled Armguards,Leatherworking,50,0
+1301459,Azure Windraveled Mitts,Leatherworking,55,0
+1301460,Azure Windraveled Strap,Leatherworking,50,0
+1301461,Azure Windraveled Pants,Leatherworking,60,0
+1301462,Azure Windraveled Footwraps,Leatherworking,55,0
+1301463,Azure Stormsewn Vest,Tailoring,60,0
+1301464,Azure Stormsewn Cuffs,Tailoring,50,0
+1301465,Azure Stormsewn Handwraps,Tailoring,55,0
+1301466,Azure Stormsewn Cord,Tailoring,50,0
+1301468,Azure Stormsewn Leggings,Tailoring,60,0
+1301469,Azure Stormsewn Shoes,Tailoring,55,0
+1301526,Cloudy Skyforged Helm,Blacksmithing,175,0
+1301527,Cloudy Skyforged Pauldrons,Blacksmithing,175,0
+1301528,Cloudy Gustwoven Hood,Leatherworking,175,0
+1301529,Cloudy Gustwoven Spaulders,Leatherworking,175,0
+1301530,Cloudy Windraveled Cover,Leatherworking,175,0
+1301531,Cloudy Windraveled Drapes,Leatherworking,175,0
+1301532,Cloudy Stormsewn Cowl,Tailoring,175,0
+1301533,Cloudy Stormsewn Epaulets,Tailoring,175,0
+1301534,Azure Skyforged Helm,Blacksmithing,175,0
+1301535,Azure Skyforged Pauldrons,Blacksmithing,175,0
+1301536,Azure Gustwoven Hood,Leatherworking,175,0
+1301537,Azure Gustwoven Spaulders,Leatherworking,175,0
+1301538,Azure Windraveled Cover,Leatherworking,175,0
+1301539,Azure Windraveled Drapes,Leatherworking,175,0
+1301540,Azure Stormsewn Cowl,Tailoring,175,0
+1301541,Azure Stormsewn Epaulets,Tailoring,175,0
+1302161,Harvester Override Signalcaster,Engineering,65,0
+1302598,Rough Copper Chain Boots,Blacksmithing,50,0
+1302604,Light Leather Reagent Bag,Leatherworking,30,0
+1306126,Smelt Heavy Thorium,Mining,300,1
+1306520,Torch of Light,Enchanting,300,
+1306521,Steadfast Libram,Enchanting,300,
+1306522,Libram of Infusion,Enchanting,300,
+1306523,Totem of Urgency,Enchanting,300,
+1306524,Idol of Swiftness,Enchanting,300,
+1306525,Idol of the Ursine Twins,Enchanting,300,
+1306526,Elderwild Waistcord,Leatherworking,300,
+1306527,Outlaw's Collar,Leatherworking,300,
+1306528,Elderwild Pants,Leatherworking,300,
+1306529,Eternity Pauldrons,Leatherworking,300,
+1306530,Tranquil Wristguards,Leatherworking,300,
+1306531,Mourning Handguards,Leatherworking,300,
+1306532,Wild Leather Armor Kit,Leatherworking,300,
+1306533,Ironwood Blade,Blacksmithing,300,
+1306534,Forest Defender's Axe,Blacksmithing,300,
+1306535,Greenhammer,Blacksmithing,300,
+1306536,Evergreen Shield,Blacksmithing,300,
+1306537,Depleted Thorium Sabatons,Blacksmithing,300,
+1306538,Heavy Thorium Gauntlets,Blacksmithing,300,
+1306539,Azerothium Legplates,Blacksmithing,300,
+1306540,Robes of Fiery Devastation,Tailoring,300,
+1306541,Mana-infused Cord,Tailoring,300,
+1306542,Rime-encrusted Boots,Tailoring,300,
+1306543,Fel Cape,Tailoring,300,
+1306544,Cloak of Earth and Sky,Tailoring,300,
+1306545,Felblood Soul Bag,Tailoring,300,
+1306546,SAF-T Ultra Precision Scope,Engineering,300,
+1306547,Hyper Deluxe Sniper Rifle Mk XVII,Engineering,300,
+1308178,Whimsical Waistwrap,Engineering,175,0
+1308179,Gizmo Girdle,Engineering,175,0
+1308180,Clanking Cord,Engineering,175,0
+1308182,Serrated Strap,Engineering,175,
+1308183,Floppy Goggles,Engineering,200,0
+1308184,Bent Goggles,Engineering,200,0
+1308185,Stuckbutton Goggles,Engineering,200,0
+1308186,Dented Goggles,Engineering,200,0
+1317270,Unsanctified Grenade,Engineering,260,
+1317279,Transmute: Legionite,Alchemy,275,
+1317958,Satchel of Copper Bombs,Engineering,85,0
+1317959,Satchel of Bronze Bombs,Engineering,165,0
+1317960,Satchel of Iron Bombs,Engineering,230,0
+1317961,Satchel of Dark Iron Bombs,Engineering,285,0
+1317962,Cracked Blacksmith Hammer,Blacksmithing,110,
+1317963,Mithril Blacksmith Hammer,Blacksmithing,195,
+1317964,Arcanite Blacksmith Hammer,Blacksmithing,270,
+1319154,Small Purple Rocket,Engineering,125,
+1319155,Small White Rocket,Engineering,125,
+1319156,Small Yellow Rocket,Engineering,125,
+1319157,Large Purple Rocket,Engineering,175,
+1319158,Large White Rocket,Engineering,175,
+1319159,Large Yellow Rocket,Engineering,175,
+1319160,Purple Rocket Cluster,Engineering,225,
+1319161,White Rocket Cluster,Engineering,225,
+1319162,Yellow Rocket Cluster,Engineering,225,
+1319163,Large Purple Rocket Cluster,Engineering,275,
+1319164,Large White Rocket Cluster,Engineering,275,
+1319165,Large Yellow Rocket Cluster,Engineering,275,
+3275,Linen Bandage,First Aid,30,
+3276,Heavy Linen Bandage,First Aid,40,1
+3277,Wool Bandage,First Aid,80,1
+3278,Heavy Wool Bandage,First Aid,115,1
+7928,Silk Bandage,First Aid,150,1
+7929,Heavy Silk Bandage,First Aid,180,0
+7934,Anti-Venom,First Aid,80,1
+7935,Strong Anti-Venom,First Aid,130,0
+10840,Mageweave Bandage,First Aid,210,0
+10841,Heavy Mageweave Bandage,First Aid,240,
+18629,Runecloth Bandage,First Aid,260,
+18630,Heavy Runecloth Bandage,First Aid,290,
+23787,Powerful Anti-Venom,First Aid,300,0
+1230117,First Aid Kit,First Aid,20,1
+1244431,Minor Healing Potion,First Aid,1,1
+1244432,Lesser Healing Potion,First Aid,55,1
+1244433,Healing Potion,First Aid,110,1
+1244434,Greater Healing Potion,First Aid,175,0
+1244435,Superior Healing Potion,First Aid,230,
+1244436,Major Healing Potion,First Aid,290,0
+1259341,Potent Anti-Venom,First Aid,230,0
+1259342,Simple Poultice,First Aid,90,1
+1259343,Clever Poultice,First Aid,160,0
+1259344,Superior Poultice,First Aid,225,0
+1259345,Powerful Poultice,First Aid,295,
+1259347,Woolen Tourniquet,First Aid,120,1
+1259348,Leather Tourniquet,First Aid,220,
+1259349,Surgical Tourniquet,First Aid,280,
+1262996,Toxin Study,First Aid,140,0
+1263001,Plague Doctor's Laboratory,First Aid,300,
+2538,Charred Wolf Meat,Cooking,45,
+2539,Spiced Wolf Meat,Cooking,10,1
+2540,Roasted Boar Meat,Cooking,45,
+2541,Coyote Steak,Cooking,50,1
+2542,Goretusk Liver Pie,Cooking,50,0
+2543,Westfall Stew,Cooking,75,0
+2544,Crab Cake,Cooking,75,1
+2545,Cooked Crab Claw,Cooking,85,0
+2546,Dry Pork Ribs,Cooking,80,1
+2547,Redridge Goulash,Cooking,100,0
+2548,Succulent Pork Ribs,Cooking,110,0
+2549,Seasoned Wolf Kabob,Cooking,100,0
+2795,Beer Basted Boar Ribs,Cooking,25,0
+3370,Crocolisk Steak,Cooking,80,0
+3371,Blood Sausage,Cooking,60,0
+3372,Murloc Fin Soup,Cooking,90,0
+3373,Crocolisk Gumbo,Cooking,120,0
+3376,Curiously Tasty Omelet,Cooking,130,0
+3377,Gooey Spider Cake,Cooking,110,0
+3397,Big Bear Steak,Cooking,110,0
+3398,Hot Lion Chops,Cooking,125,0
+3399,Tasty Lion Steak,Cooking,150,0
+3400,Soothing Turtle Bisque,Cooking,175,0
+4094,Barbecued Buzzard Wing,Cooking,175,1
+6412,Kaldorei Spider Kabob,Cooking,10,0
+6413,Scorpid Surprise,Cooking,20,0
+6414,Roasted Kodo Meat,Cooking,35,0
+6415,Fillet of Frenzy,Cooking,50,0
+6416,Strider Stew,Cooking,50,0
+6417,Dig Rat Stew,Cooking,90,0
+6418,Crispy Lizard Tail,Cooking,100,0
+6419,Lean Venison,Cooking,110,0
+6499,Boiled Clams,Cooking,50,1
+6500,Goblin Deviled Clams,Cooking,125,1
+6501,Clam Chowder,Cooking,90,0
+7213,Giant Clam Scorcho,Cooking,175,0
+7751,Brilliant Smallfish,Cooking,1,0
+7752,Slitherskin Mackerel,Cooking,1,0
+7753,Longjaw Mud Snapper,Cooking,50,0
+7754,Loch Frenzy Delight,Cooking,50,0
+7755,Bristle Whisker Catfish,Cooking,100,0
+7827,Rainbow Fin Albacore,Cooking,50,0
+7828,Rockscale Cod,Cooking,175,0
+8238,Savory Deviate Delight,Cooking,85,0
+8604,Herb Baked Egg,Cooking,1,
+8607,Smoked Bear Meat,Cooking,40,0
+9513,Thistle Tea,Cooking,60,0
+13028,Goldthorn Tea,Cooking,215,
+15853,Lean Wolf Steak,Cooking,125,0
+15855,Roast Raptor,Cooking,175,0
+15856,Hot Wolf Ribs,Cooking,175,0
+15861,Jungle Stew,Cooking,175,0
+15863,Carrion Surprise,Cooking,175,0
+15865,Mystery Stew,Cooking,175,0
+15906,Dragonbreath Chili,Cooking,200,0
+15910,Heavy Kodo Stew,Cooking,200,0
+15915,Spiced Chili Crab,Cooking,225,0
+15933,Monster Omelet,Cooking,225,0
+15935,Crispy Bat Wing,Cooking,1,0
+18238,Spotted Yellowtail,Cooking,225,0
+18239,Cooked Glossy Mightfish,Cooking,225,0
+18240,Grilled Squid,Cooking,240,0
+18241,Filet of Redgill,Cooking,225,0
+18242,Hot Smoked Bass,Cooking,240,0
+18243,Nightfin Soup,Cooking,250,0
+18244,Poached Sunscale Salmon,Cooking,250,0
+18245,Lobster Stew,Cooking,275,0
+18246,Mightfish Steak,Cooking,275,0
+18247,Baked Salmon,Cooking,275,0
+20626,Undermine Clam Chowder,Cooking,225,0
+20916,Mithril Headed Trout,Cooking,175,0
+21143,Gingerbread Cookie,Cooking,1,0
+21144,Egg Nog,Cooking,35,0
+21175,Spider Sausage,Cooking,200,1
+22480,Tender Wolf Steak,Cooking,225,0
+22761,Runn Tum Tuber Surprise,Cooking,275,0
+24418,Heavy Crocolisk Stew,Cooking,150,0
+24801,Smoked Desert Dumplings,Cooking,325,
+25659,Dirge's Kickin' Chimaerok Chops,Cooking,300,0
+25704,Smoked Sagefish,Cooking,80,0
+25954,Sagefish Delight,Cooking,175,0
+1225758,Prowler Steak,Cooking,250,
+1225759,Filet o' Flank,Cooking,250,
+1225760,Sunrise Omelette,Cooking,250,
+1225762,Specklefin Feast,Cooking,280,
+1225763,Grand Lobster Banquet,Cooking,280,
+1229737,Basic Campfire,Cooking,20,1
+1247741,Spinefin Halibut,Cooking,210,
+1249957,Peace Tea,Cooking,25,0
+1249958,Royal Tea,Cooking,100,0
+1249959,Root Tea,Cooking,125,0
+1249960,Triage Tea,Cooking,180,
+1249961,Sunny Tea,Cooking,200,
+1249962,Sage's Tea,Cooking,250,
+1249963,Venomous Smoothie,Cooking,25,0
+1249964,Slimy Smoothie,Cooking,100,0
+1249965,Mrrggl Smrrthle,Cooking,125,0
+1249966,Calcified Smoothie,Cooking,180,0
+1249967,Spicy Smoothie,Cooking,200,0
+1249968,Wicked Smoothie,Cooking,250,0
+1250142,Savory Stag Sliders,Cooking,225,
+1250143,Soaring Pamplona,Cooking,275,
+1250144,Bat Hachee,Cooking,275,
+1250145,Savory Turtle Stew,Cooking,275,
+1250146,Flank au Poivre,Cooking,275,
+1250147,Bear Bruscitti,Cooking,275,
+1250148,Steaming Stag Steak,Cooking,275,
+1250149,Swiftstrike Steak,Cooking,275,
+1250150,Raging Raptor Ribs,Cooking,180,
+1250151,Bear Brisket,Cooking,175,0
+1250152,Prehistoric Pulled Raptor,Cooking,275,
+1250153,Raptor Rouladen,Cooking,225,0
+1250154,Twice-Spiced Raptor Slice,Cooking,75,0
+1250155,Giant Scrambled Eggs,Cooking,175,
+1250156,Tasty Raptor Bites,Cooking,25,0
+1250157,Breakfast Omelette,Cooking,75,0
+1250158,Clam Linguine,Cooking,275,
+1252566,Savory Whimsyfin Delight,Cooking,85,0
+1262978,Cookie's Feast,Cooking,140,0
+1263067,Iron Oven,Cooking,300,
+1270632,Critter Cookie,Cooking,80,
+1270633,Skywall Souffle,Cooking,25,0
+1270635,Pincer Bites,Cooking,35,0
+1283400,Journeyman Campfire,Cooking,90,0
+1291341,Expert Campfire,Cooking,200,
+1294014,Sweetpaw Jam,Cooking,275,0
+1295805,Briny Seafood Stew,Cooking,200,0
+1295834,Plain Ol' Paletusk,Cooking,185,0
+1319313,Plated Armorfish,Cooking,225,
